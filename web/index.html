@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Safe generation questions</title>
+  <style>
+    :root { color-scheme: light; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Iowan Old Style", serif;
+      background: #f3f0e8;
+      color: #1d1b16;
+    }
+    main {
+      max-width: 44rem;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+    h1 { font-weight: 500; font-size: 2rem; margin: 0 0 0.4rem; }
+    .lede { margin: 0 0 1.25rem; line-height: 1.45; }
+    form, .result {
+      background: #fff;
+      border: 1px solid rgba(29, 27, 22, 0.1);
+      border-radius: 14px;
+      padding: 1rem;
+    }
+    label { display: block; font-size: 0.85rem; margin: 0.8rem 0 0.25rem; }
+    textarea, select, button {
+      font: inherit;
+      color: inherit;
+    }
+    textarea, select {
+      width: 100%;
+      box-sizing: border-box;
+      border: 1px solid #c9c2b2;
+      border-radius: 8px;
+      padding: 0.55rem 0.65rem;
+      background: #fff;
+    }
+    textarea { min-height: 5.5rem; resize: vertical; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+    button {
+      margin-top: 0.9rem;
+      background: #1d1b16;
+      color: #fff;
+      border: 0;
+      border-radius: 999px;
+      padding: 0.45rem 1rem;
+      cursor: pointer;
+    }
+    .examples { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.8rem; }
+    .examples button {
+      margin: 0;
+      background: transparent;
+      color: #1d1b16;
+      border: 1px solid #c9c2b2;
+      border-radius: 999px;
+      padding: 0.25rem 0.7rem;
+      font-size: 0.85rem;
+    }
+    .result { margin-top: 1rem; }
+    .result.bad { border-color: #8a3b2a; }
+    pre {
+      white-space: pre-wrap;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.82rem;
+      background: #f7f4ee;
+      padding: 0.7rem;
+      border-radius: 8px;
+    }
+    table { width: 100%; border-collapse: collapse; margin-top: 0.8rem; }
+    th, td { text-align: left; padding: 0.35rem 0.4rem; border-bottom: 1px solid #ece7dc; font-size: 0.95rem; }
+    th { font-weight: 600; }
+    .hidden { display: none; }
+    @media (max-width: 640px) { .row { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Safe generation questions</h1>
+    <p class="lede">
+      Ask about U.S. net electricity generation, 2020–2024, from the Energy Information Administration’s public state table.
+      The question becomes a checked query. A state reader only sees the assigned state, and that limit is applied before the query runs.
+    </p>
+    <form id="ask">
+      <label for="question">Question</label>
+      <textarea id="question" name="question">How much wind generation did Texas produce in 2023?</textarea>
+      <div class="row">
+        <div>
+          <label for="role">Role</label>
+          <select id="role" name="role">
+            <option value="analyst">Analyst, all states</option>
+            <option value="state_reader">State reader, one state</option>
+          </select>
+        </div>
+        <div id="state-field" class="hidden">
+          <label for="state">Assigned state</label>
+          <select id="state" name="state"></select>
+        </div>
+      </div>
+      <button type="submit">Ask</button>
+      <div class="examples" id="examples"></div>
+    </form>
+    <section id="result" class="result hidden" aria-live="polite"></section>
+  </main>
+  <script>
+    const examples = [
+      "How much wind generation did Texas produce in 2023?",
+      "Which fuel produced the most electricity in California in 2024?",
+      "Top 5 states for wind generation in 2024",
+      "What was customer revenue in Texas in 2023?",
+      "How much wind generation did California produce in 2023?"
+    ];
+    const role = document.querySelector("#role");
+    const stateField = document.querySelector("#state-field");
+    const stateSelect = document.querySelector("#state");
+    const question = document.querySelector("#question");
+    const result = document.querySelector("#result");
+
+    role.addEventListener("change", () => {
+      stateField.classList.toggle("hidden", role.value !== "state_reader");
+    });
+
+    fetch("/api/schema").then((response) => response.json()).then((schema) => {
+      for (const item of schema.states) {
+        const option = document.createElement("option");
+        option.value = item.code;
+        option.textContent = item.name;
+        if (item.code === "TX") option.selected = true;
+        stateSelect.append(option);
+      }
+    });
+
+    const exampleBox = document.querySelector("#examples");
+    for (const text of examples) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = text;
+      button.addEventListener("click", () => { question.value = text; });
+      exampleBox.append(button);
+    }
+
+    document.querySelector("#ask").addEventListener("submit", async (event) => {
+      event.preventDefault();
+      result.classList.remove("hidden", "bad");
+      result.textContent = "Checking the question…";
+      const payload = {
+        question: question.value,
+        role: role.value,
+        state: role.value === "state_reader" ? stateSelect.value : null
+      };
+      const response = await fetch("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+      const body = await response.json();
+      result.classList.toggle("bad", !body.ok);
+      result.replaceChildren();
+      const explanation = document.createElement("p");
+      explanation.textContent = body.explanation;
+      result.append(explanation);
+      if (body.rows && body.rows.length) {
+        const table = document.createElement("table");
+        const head = document.createElement("tr");
+        for (const column of body.columns) {
+          const cell = document.createElement("th");
+          cell.textContent = column;
+          head.append(cell);
+        }
+        table.append(head);
+        for (const row of body.rows) {
+          const line = document.createElement("tr");
+          for (const column of body.columns) {
+            const cell = document.createElement("td");
+            const value = row[column];
+            cell.textContent = typeof value === "number" ? value.toLocaleString("en-US") : value;
+            line.append(cell);
+          }
+          table.append(line);
+        }
+        result.append(table);
+      }
+      if (body.sql) {
+        const sql = document.createElement("pre");
+        sql.textContent = body.sql + "\nparams: " + JSON.stringify(body.params);
+        result.append(sql);
+      }
+    });
+  </script>
+</body>
+</html>

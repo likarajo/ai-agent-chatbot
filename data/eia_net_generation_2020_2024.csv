@@ -1,0 +1,2580 @@
+year,state,energy_source,generation_mwh
+2020,AK,Coal,721789
+2020,AK,Hydroelectric Conventional,1763947
+2020,AK,Natural Gas,2640760
+2020,AK,Other,-3454
+2020,AK,Other Biomass,39065
+2020,AK,Petroleum,985802
+2020,AK,Wind,128533
+2020,AK,Wood and Wood Derived Fuels,0
+2020,AL,Coal,21729524
+2020,AL,Hydroelectric Conventional,13349134
+2020,AL,Natural Gas,55229674
+2020,AL,Nuclear,43550647
+2020,AL,Other,-42
+2020,AL,Other Biomass,37305
+2020,AL,Other Gases,410
+2020,AL,Petroleum,12847
+2020,AL,Solar Thermal and Photovoltaic,368742
+2020,AL,Wood and Wood Derived Fuels,3269135
+2020,AR,Coal,15420998
+2020,AR,Hydroelectric Conventional,4530625
+2020,AR,Natural Gas,18307327
+2020,AR,Nuclear,15063049
+2020,AR,Other,4433
+2020,AR,Other Biomass,78723
+2020,AR,Petroleum,44171
+2020,AR,Pumped Storage,65579
+2020,AR,Solar Thermal and Photovoltaic,272148
+2020,AR,Wood and Wood Derived Fuels,854206
+2020,AZ,Coal,13747253
+2020,AZ,Hydroelectric Conventional,6423600
+2020,AZ,Natural Gas,50777570
+2020,AZ,Nuclear,31552433
+2020,AZ,Other,-2892
+2020,AZ,Other Biomass,21628
+2020,AZ,Petroleum,40405
+2020,AZ,Pumped Storage,62251
+2020,AZ,Solar Thermal and Photovoltaic,5837443
+2020,AZ,Wind,644160
+2020,AZ,Wood and Wood Derived Fuels,201205
+2020,CA,Coal,290291
+2020,CA,Geothermal,11366522
+2020,CA,Hydroelectric Conventional,21377478
+2020,CA,Natural Gas,92046685
+2020,CA,Nuclear,16258698
+2020,CA,Other,694659
+2020,CA,Other Biomass,2615054
+2020,CA,Other Gases,1537976
+2020,CA,Petroleum,43915
+2020,CA,Pumped Storage,-37126
+2020,CA,Solar Thermal and Photovoltaic,30272578
+2020,CA,Wind,13583089
+2020,CA,Wood and Wood Derived Fuels,3033718
+2020,CO,Coal,19478405
+2020,CO,Hydroelectric Conventional,1668561
+2020,CO,Natural Gas,18171338
+2020,CO,Other,59340
+2020,CO,Other Biomass,74235
+2020,CO,Other Gases,20987
+2020,CO,Petroleum,-188632
+2020,CO,Pumped Storage,-151391
+2020,CO,Solar Thermal and Photovoltaic,1503694
+2020,CO,Wind,13386228
+2020,CO,Wood and Wood Derived Fuels,92246
+2020,CT,Coal,-19082
+2020,CT,Hydroelectric Conventional,325944
+2020,CT,Natural Gas,23536813
+2020,CT,Nuclear,15714855
+2020,CT,Other,590506
+2020,CT,Other Biomass,490235
+2020,CT,Petroleum,32587
+2020,CT,Pumped Storage,1321
+2020,CT,Solar Thermal and Photovoltaic,213686
+2020,CT,Wind,12184
+2020,CT,Wood and Wood Derived Fuels,291523
+2020,DC,Natural Gas,133536
+2020,DC,Other Biomass,54852
+2020,DC,Petroleum,21
+2020,DC,Solar Thermal and Photovoltaic,12695
+2020,DE,Coal,102274
+2020,DE,Natural Gas,4818094
+2020,DE,Other Biomass,72042
+2020,DE,Other Gases,145549
+2020,DE,Petroleum,8061
+2020,DE,Solar Thermal and Photovoltaic,54173
+2020,DE,Wind,5179
+2020,FL,Coal,16597728
+2020,FL,Hydroelectric Conventional,231680
+2020,FL,Natural Gas,189420462
+2020,FL,Nuclear,29419352
+2020,FL,Other,2921460
+2020,FL,Other Biomass,2070851
+2020,FL,Other Gases,95
+2020,FL,Petroleum,1702037
+2020,FL,Solar Thermal and Photovoltaic,6509602
+2020,FL,Wood and Wood Derived Fuels,1954532
+2020,GA,Coal,13913935
+2020,GA,Hydroelectric Conventional,4662575
+2020,GA,Natural Gas,59177964
+2020,GA,Nuclear,32825697
+2020,GA,Other,83259
+2020,GA,Other Biomass,321667
+2020,GA,Petroleum,206521
+2020,GA,Pumped Storage,-376368
+2020,GA,Solar Thermal and Photovoltaic,3780137
+2020,GA,Wood and Wood Derived Fuels,5533552
+2020,HI,Coal,1165147
+2020,HI,Geothermal,9640
+2020,HI,Hydroelectric Conventional,98820
+2020,HI,Other,320844
+2020,HI,Other Biomass,256221
+2020,HI,Other Gases,2874
+2020,HI,Petroleum,6149205
+2020,HI,Solar Thermal and Photovoltaic,484030
+2020,HI,Wind,592238
+2020,HI,Wood and Wood Derived Fuels,0
+2020,IA,Coal,14146835
+2020,IA,Hydroelectric Conventional,1025215
+2020,IA,Natural Gas,7036824
+2020,IA,Nuclear,2904863
+2020,IA,Other,-60
+2020,IA,Other Biomass,199395
+2020,IA,Petroleum,111111
+2020,IA,Solar Thermal and Photovoltaic,22082
+2020,IA,Wind,34182302
+2020,IA,Wood and Wood Derived Fuels,8105
+2020,ID,Coal,20044
+2020,ID,Geothermal,90572
+2020,ID,Hydroelectric Conventional,9508113
+2020,ID,Natural Gas,4157098
+2020,ID,Other,52810
+2020,ID,Other Biomass,115384
+2020,ID,Petroleum,34
+2020,ID,Solar Thermal and Photovoltaic,565601
+2020,ID,Wind,2770570
+2020,ID,Wood and Wood Derived Fuels,405909
+2020,IL,Coal,31237857
+2020,IL,Hydroelectric Conventional,134981
+2020,IL,Natural Gas,24516138
+2020,IL,Nuclear,100246068
+2020,IL,Other,248589
+2020,IL,Other Biomass,391023
+2020,IL,Other Gases,284672
+2020,IL,Petroleum,30312
+2020,IL,Solar Thermal and Photovoltaic,78945
+2020,IL,Wind,16225940
+2020,IL,Wood and Wood Derived Fuels,0
+2020,IN,Coal,47772885
+2020,IN,Hydroelectric Conventional,270739
+2020,IN,Natural Gas,32084576
+2020,IN,Other,497552
+2020,IN,Other Biomass,447504
+2020,IN,Other Gases,2239949
+2020,IN,Petroleum,113473
+2020,IN,Solar Thermal and Photovoltaic,358753
+2020,IN,Wind,6287548
+2020,IN,Wood and Wood Derived Fuels,0
+2020,KS,Coal,16959839
+2020,KS,Hydroelectric Conventional,32402
+2020,KS,Natural Gas,2802164
+2020,KS,Nuclear,10582482
+2020,KS,Other,4971
+2020,KS,Other Biomass,63698
+2020,KS,Petroleum,74857
+2020,KS,Solar Thermal and Photovoltaic,57675
+2020,KS,Wind,23963744
+2020,KY,Coal,43638313
+2020,KY,Hydroelectric Conventional,5005493
+2020,KY,Natural Gas,14384495
+2020,KY,Other,64167
+2020,KY,Other Biomass,114463
+2020,KY,Petroleum,57217
+2020,KY,Solar Thermal and Photovoltaic,42832
+2020,KY,Wood and Wood Derived Fuels,232848
+2020,LA,Coal,3918424
+2020,LA,Hydroelectric Conventional,1203744
+2020,LA,Natural Gas,70781547
+2020,LA,Nuclear,16949587
+2020,LA,Other,605301
+2020,LA,Other Biomass,56717
+2020,LA,Other Gases,1731369
+2020,LA,Petroleum,3428732
+2020,LA,Solar Thermal and Photovoltaic,39360
+2020,LA,Wood and Wood Derived Fuels,2058991
+2020,MA,Coal,0
+2020,MA,Hydroelectric Conventional,843677
+2020,MA,Natural Gas,14177406
+2020,MA,Other,910933
+2020,MA,Other Biomass,901708
+2020,MA,Petroleum,36111
+2020,MA,Pumped Storage,-402504
+2020,MA,Solar Thermal and Photovoltaic,1404276
+2020,MA,Wind,238275
+2020,MA,Wood and Wood Derived Fuels,104293
+2020,MD,Coal,3359560
+2020,MD,Hydroelectric Conventional,1696803
+2020,MD,Natural Gas,14091720
+2020,MD,Nuclear,15080557
+2020,MD,Other,319843
+2020,MD,Other Biomass,327069
+2020,MD,Petroleum,70379
+2020,MD,Solar Thermal and Photovoltaic,527235
+2020,MD,Wind,545676
+2020,MD,Wood and Wood Derived Fuels,10304
+2020,ME,Coal,55480
+2020,ME,Hydroelectric Conventional,3158195
+2020,ME,Natural Gas,1904202
+2020,ME,Other,330319
+2020,ME,Other Biomass,113545
+2020,ME,Petroleum,36914
+2020,ME,Solar Thermal and Photovoltaic,27699
+2020,ME,Wind,2395141
+2020,ME,Wood and Wood Derived Fuels,1980376
+2020,MI,Coal,27961029
+2020,MI,Hydroelectric Conventional,1713341
+2020,MI,Natural Gas,36433839
+2020,MI,Nuclear,30332546
+2020,MI,Other,135321
+2020,MI,Other Biomass,982225
+2020,MI,Other Gases,968649
+2020,MI,Petroleum,933672
+2020,MI,Pumped Storage,-845480
+2020,MI,Solar Thermal and Photovoltaic,155168
+2020,MI,Wind,6735092
+2020,MI,Wood and Wood Derived Fuels,1119318
+2020,MN,Coal,14037834
+2020,MN,Hydroelectric Conventional,1001844
+2020,MN,Natural Gas,11814994
+2020,MN,Nuclear,14677288
+2020,MN,Other,327619
+2020,MN,Other Biomass,343528
+2020,MN,Petroleum,29964
+2020,MN,Solar Thermal and Photovoltaic,1633640
+2020,MN,Wind,11831137
+2020,MN,Wood and Wood Derived Fuels,812294
+2020,MO,Coal,51755690
+2020,MO,Hydroelectric Conventional,1879405
+2020,MO,Natural Gas,7560737
+2020,MO,Nuclear,7742120
+2020,MO,Other,71
+2020,MO,Other Biomass,83144
+2020,MO,Petroleum,80803
+2020,MO,Pumped Storage,-22113
+2020,MO,Solar Thermal and Photovoltaic,100745
+2020,MO,Wind,3345102
+2020,MO,Wood and Wood Derived Fuels,42176
+2020,MS,Coal,4593525
+2020,MS,Natural Gas,53661580
+2020,MS,Nuclear,6470934
+2020,MS,Other,0
+2020,MS,Other Biomass,15559
+2020,MS,Petroleum,8395
+2020,MS,Solar Thermal and Photovoltaic,430117
+2020,MS,Wood and Wood Derived Fuels,1401656
+2020,MT,Coal,8490284
+2020,MT,Hydroelectric Conventional,10747535
+2020,MT,Natural Gas,290796
+2020,MT,Other,231202
+2020,MT,Other Biomass,11994
+2020,MT,Other Gases,11679
+2020,MT,Petroleum,457211
+2020,MT,Solar Thermal and Photovoltaic,32701
+2020,MT,Wind,3058580
+2020,MT,Wood and Wood Derived Fuels,21309
+2020,NC,Coal,20793289
+2020,NC,Hydroelectric Conventional,7957492
+2020,NC,Natural Gas,41401321
+2020,NC,Nuclear,42328762
+2020,NC,Other,484879
+2020,NC,Other Biomass,640690
+2020,NC,Petroleum,116591
+2020,NC,Pumped Storage,0
+2020,NC,Solar Thermal and Photovoltaic,8273753
+2020,NC,Wind,546267
+2020,NC,Wood and Wood Derived Fuels,1820399
+2020,ND,Coal,24496807
+2020,ND,Hydroelectric Conventional,2450395
+2020,ND,Natural Gas,1488431
+2020,ND,Other,38018
+2020,ND,Other Biomass,519
+2020,ND,Other Gases,37698
+2020,ND,Petroleum,30702
+2020,ND,Wind,13633854
+2020,NE,Coal,18788647
+2020,NE,Hydroelectric Conventional,1390089
+2020,NE,Natural Gas,1208709
+2020,NE,Nuclear,6188551
+2020,NE,Other,0
+2020,NE,Other Biomass,89701
+2020,NE,Petroleum,14034
+2020,NE,Solar Thermal and Photovoltaic,53608
+2020,NE,Wind,9115342
+2020,NE,Wood and Wood Derived Fuels,0
+2020,NH,Coal,128482
+2020,NH,Hydroelectric Conventional,1228270
+2020,NH,Natural Gas,3638012
+2020,NH,Nuclear,9865196
+2020,NH,Other,55578
+2020,NH,Other Biomass,132671
+2020,NH,Petroleum,41688
+2020,NH,Solar Thermal and Photovoltaic,3873
+2020,NH,Wind,524872
+2020,NH,Wood and Wood Derived Fuels,731936
+2020,NJ,Coal,916718
+2020,NJ,Hydroelectric Conventional,15356
+2020,NJ,Natural Gas,30630982
+2020,NJ,Nuclear,26738258
+2020,NJ,Other,590067
+2020,NJ,Other Biomass,736250
+2020,NJ,Other Gases,197096
+2020,NJ,Petroleum,66592
+2020,NJ,Pumped Storage,-109905
+2020,NJ,Solar Thermal and Photovoltaic,1305029
+2020,NJ,Wind,20014
+2020,NM,Coal,12788184
+2020,NM,Geothermal,53279
+2020,NM,Hydroelectric Conventional,202708
+2020,NM,Natural Gas,12001908
+2020,NM,Other,-762
+2020,NM,Other Biomass,24972
+2020,NM,Petroleum,32517
+2020,NM,Solar Thermal and Photovoltaic,1748602
+2020,NM,Wind,7224177
+2020,NV,Coal,1953201
+2020,NV,Geothermal,3800921
+2020,NV,Hydroelectric Conventional,1923366
+2020,NV,Natural Gas,26801321
+2020,NV,Other,25805
+2020,NV,Other Biomass,54244
+2020,NV,Other Gases,0
+2020,NV,Petroleum,6265
+2020,NV,Solar Thermal and Photovoltaic,5534819
+2020,NV,Wind,324803
+2020,NY,Coal,143692
+2020,NY,Hydroelectric Conventional,29549882
+2020,NY,Natural Gas,52965593
+2020,NY,Nuclear,38430076
+2020,NY,Other,997138
+2020,NY,Other Biomass,1496230
+2020,NY,Other Gases,0
+2020,NY,Petroleum,349651
+2020,NY,Pumped Storage,-327948
+2020,NY,Solar Thermal and Photovoltaic,839958
+2020,NY,Wind,4521726
+2020,NY,Wood and Wood Derived Fuels,464273
+2020,OH,Coal,45008596
+2020,OH,Hydroelectric Conventional,374222
+2020,OH,Natural Gas,53927042
+2020,OH,Nuclear,18219025
+2020,OH,Other,4558
+2020,OH,Other Biomass,427534
+2020,OH,Other Gases,703820
+2020,OH,Petroleum,1174405
+2020,OH,Solar Thermal and Photovoltaic,163611
+2020,OH,Wind,2289139
+2020,OH,Wood and Wood Derived Fuels,246231
+2020,OK,Coal,5937510
+2020,OK,Hydroelectric Conventional,2854441
+2020,OK,Natural Gas,44828786
+2020,OK,Other,5259
+2020,OK,Other Biomass,77358
+2020,OK,Petroleum,26454
+2020,OK,Pumped Storage,-117820
+2020,OK,Solar Thermal and Photovoltaic,63297
+2020,OK,Wind,29416977
+2020,OK,Wood and Wood Derived Fuels,275466
+2020,OR,Coal,1630145
+2020,OR,Geothermal,192101
+2020,OR,Hydroelectric Conventional,31920643
+2020,OR,Natural Gas,19019913
+2020,OR,Other,43917
+2020,OR,Other Biomass,329362
+2020,OR,Petroleum,2339
+2020,OR,Solar Thermal and Photovoltaic,1077902
+2020,OR,Wind,8777254
+2020,OR,Wood and Wood Derived Fuels,631206
+2020,PA,Coal,23458271
+2020,PA,Hydroelectric Conventional,2672457
+2020,PA,Natural Gas,120766860
+2020,PA,Nuclear,76521394
+2020,PA,Other,878630
+2020,PA,Other Biomass,1532751
+2020,PA,Other Gases,576233
+2020,PA,Petroleum,64940
+2020,PA,Pumped Storage,-594259
+2020,PA,Solar Thermal and Photovoltaic,139497
+2020,PA,Wind,3748207
+2020,PA,Wood and Wood Derived Fuels,378299
+2020,RI,Coal,0
+2020,RI,Hydroelectric Conventional,3555
+2020,RI,Natural Gas,8272365
+2020,RI,Other Biomass,205172
+2020,RI,Petroleum,4479
+2020,RI,Solar Thermal and Photovoltaic,194634
+2020,RI,Wind,214735
+2020,SC,Coal,12459093
+2020,SC,Hydroelectric Conventional,3862805
+2020,SC,Natural Gas,24227930
+2020,SC,Nuclear,54751088
+2020,SC,Other,45702
+2020,SC,Other Biomass,121001
+2020,SC,Petroleum,64149
+2020,SC,Pumped Storage,-678600
+2020,SC,Solar Thermal and Photovoltaic,1721546
+2020,SC,Wood and Wood Derived Fuels,1954083
+2020,SD,Coal,1648222
+2020,SD,Hydroelectric Conventional,5830613
+2020,SD,Natural Gas,1102466
+2020,SD,Other,0
+2020,SD,Other Biomass,1219
+2020,SD,Petroleum,7394
+2020,SD,Solar Thermal and Photovoltaic,2051
+2020,SD,Wind,5544166
+2020,SD,Wood and Wood Derived Fuels,10408
+2020,TN,Coal,14245272
+2020,TN,Hydroelectric Conventional,13452392
+2020,TN,Natural Gas,15668120
+2020,TN,Nuclear,36688195
+2020,TN,Other,9744
+2020,TN,Other Biomass,90498
+2020,TN,Other Gases,11275
+2020,TN,Petroleum,107933
+2020,TN,Pumped Storage,-720973
+2020,TN,Solar Thermal and Photovoltaic,324652
+2020,TN,Wind,39185
+2020,TN,Wood and Wood Derived Fuels,649716
+2020,TX,Coal,78825275
+2020,TX,Hydroelectric Conventional,1079347
+2020,TX,Natural Gas,246629508
+2020,TX,Nuclear,41438705
+2020,TX,Other,436034
+2020,TX,Other Biomass,440558
+2020,TX,Other Gases,2611039
+2020,TX,Petroleum,141587
+2020,TX,Solar Thermal and Photovoltaic,8536923
+2020,TX,Wind,92440997
+2020,TX,Wood and Wood Derived Fuels,934956
+2020,US,Coal,773392897
+2020,US,Geothermal,15889697
+2020,US,Hydroelectric Conventional,285273895
+2020,US,Natural Gas,1626789640
+2020,US,Nuclear,789878863
+2020,US,Other,12855185
+2020,US,Other Biomass,18492673
+2020,US,Other Gases,11818478
+2020,US,Petroleum,17341015
+2020,US,Pumped Storage,-5321205
+2020,US,Solar Thermal and Photovoltaic,89198715
+2020,US,Wind,337938049
+2020,US,Wood and Wood Derived Fuels,36218943
+2020,UT,Coal,22806021
+2020,UT,Geothermal,376662
+2020,UT,Hydroelectric Conventional,816724
+2020,UT,Natural Gas,9460150
+2020,UT,Other,129511
+2020,UT,Other Biomass,77605
+2020,UT,Other Gases,7384
+2020,UT,Petroleum,39555
+2020,UT,Solar Thermal and Photovoltaic,2571077
+2020,UT,Wind,802619
+2020,VA,Coal,3762795
+2020,VA,Hydroelectric Conventional,2030174
+2020,VA,Natural Gas,62622888
+2020,VA,Nuclear,30140054
+2020,VA,Other,557208
+2020,VA,Other Biomass,1068997
+2020,VA,Petroleum,230945
+2020,VA,Pumped Storage,-1079536
+2020,VA,Solar Thermal and Photovoltaic,1371023
+2020,VA,Wood and Wood Derived Fuels,2351453
+2020,VT,Hydroelectric Conventional,1129673
+2020,VT,Natural Gas,2021
+2020,VT,Other,-2547
+2020,VT,Other Biomass,67109
+2020,VT,Petroleum,1757
+2020,VT,Solar Thermal and Photovoltaic,182852
+2020,VT,Wind,383586
+2020,VT,Wood and Wood Derived Fuels,391957
+2020,WA,Coal,5170216
+2020,WA,Hydroelectric Conventional,76409659
+2020,WA,Natural Gas,14014437
+2020,WA,Nuclear,9427050
+2020,WA,Other,68817
+2020,WA,Other Biomass,112507
+2020,WA,Other Gases,292477
+2020,WA,Petroleum,18515
+2020,WA,Pumped Storage,13667
+2020,WA,Solar Thermal and Photovoltaic,45872
+2020,WA,Wind,9265597
+2020,WA,Wood and Wood Derived Fuels,1275653
+2020,WI,Coal,23761097
+2020,WI,Hydroelectric Conventional,2787757
+2020,WI,Natural Gas,22002167
+2020,WI,Nuclear,9771333
+2020,WI,Other,28896
+2020,WI,Other Biomass,460433
+2020,WI,Petroleum,105259
+2020,WI,Solar Thermal and Photovoltaic,93016
+2020,WI,Wind,1763375
+2020,WI,Wood and Wood Derived Fuels,675212
+2020,WV,Coal,50216398
+2020,WV,Hydroelectric Conventional,1592025
+2020,WV,Natural Gas,2776673
+2020,WV,Other,-16791
+2020,WV,Other Biomass,6457
+2020,WV,Other Gases,46561
+2020,WV,Petroleum,142408
+2020,WV,Wind,1897803
+2020,WY,Coal,33359104
+2020,WY,Hydroelectric Conventional,1085998
+2020,WY,Natural Gas,1373697
+2020,WY,Other,78771
+2020,WY,Other Gases,390687
+2020,WY,Petroleum,44734
+2020,WY,Solar Thermal and Photovoltaic,165364
+2020,WY,Wind,5512635
+2021,AK,Coal,752894
+2021,AK,Hydroelectric Conventional,1688900
+2021,AK,Natural Gas,3085396
+2021,AK,Other,-4141
+2021,AK,Other Biomass,38071
+2021,AK,Petroleum,902486
+2021,AK,Solar Thermal and Photovoltaic,0
+2021,AK,Wind,132212
+2021,AK,Wood and Wood Derived Fuels,0
+2021,AL,Coal,26900909
+2021,AL,Hydroelectric Conventional,11520809
+2021,AL,Natural Gas,54447875
+2021,AL,Nuclear,46036489
+2021,AL,Other,28
+2021,AL,Other Biomass,43940
+2021,AL,Other Gases,65
+2021,AL,Petroleum,21915
+2021,AL,Solar Thermal and Photovoltaic,493995
+2021,AL,Wood and Wood Derived Fuels,3267305
+2021,AR,Coal,21418877
+2021,AR,Hydroelectric Conventional,4028679
+2021,AR,Natural Gas,20629134
+2021,AR,Nuclear,13555684
+2021,AR,Other,7572
+2021,AR,Other Biomass,61417
+2021,AR,Petroleum,55532
+2021,AR,Pumped Storage,83706
+2021,AR,Solar Thermal and Photovoltaic,462281
+2021,AR,Wood and Wood Derived Fuels,797187
+2021,AZ,Coal,14300572
+2021,AZ,Hydroelectric Conventional,5972854
+2021,AZ,Natural Gas,48053133
+2021,AZ,Nuclear,31629862
+2021,AZ,Other,-7543
+2021,AZ,Other Biomass,19470
+2021,AZ,Petroleum,43534
+2021,AZ,Pumped Storage,90895
+2021,AZ,Solar Thermal and Photovoltaic,6710877
+2021,AZ,Wind,1600319
+2021,AZ,Wood and Wood Derived Fuels,190646
+2021,CA,Coal,294154
+2021,CA,Geothermal,11127544
+2021,CA,Hydroelectric Conventional,14677580
+2021,CA,Natural Gas,97427092
+2021,CA,Nuclear,16477366
+2021,CA,Other,575895
+2021,CA,Other Biomass,2574350
+2021,CA,Other Gases,1368920
+2021,CA,Petroleum,76998
+2021,CA,Pumped Storage,-317434
+2021,CA,Solar Thermal and Photovoltaic,34863922
+2021,CA,Wind,15177006
+2021,CA,Wood and Wood Derived Fuels,2841712
+2021,CO,Coal,23602042
+2021,CO,Hydroelectric Conventional,1598310
+2021,CO,Natural Gas,14559773
+2021,CO,Other,54858
+2021,CO,Other Biomass,74231
+2021,CO,Other Gases,6452
+2021,CO,Petroleum,27809
+2021,CO,Pumped Storage,-35500
+2021,CO,Solar Thermal and Photovoltaic,1729948
+2021,CO,Wind,15125697
+2021,CO,Wood and Wood Derived Fuels,94851
+2021,CT,Coal,244647
+2021,CT,Hydroelectric Conventional,477571
+2021,CT,Natural Gas,24488902
+2021,CT,Nuclear,17216509
+2021,CT,Other,571132
+2021,CT,Other Biomass,473999
+2021,CT,Petroleum,45950
+2021,CT,Pumped Storage,433
+2021,CT,Solar Thermal and Photovoltaic,265188
+2021,CT,Wind,12758
+2021,CT,Wood and Wood Derived Fuels,282855
+2021,DC,Natural Gas,137072
+2021,DC,Other Biomass,55721
+2021,DC,Petroleum,38
+2021,DC,Solar Thermal and Photovoltaic,18269
+2021,DE,Coal,276729
+2021,DE,Natural Gas,3734203
+2021,DE,Other Biomass,73648
+2021,DE,Other Gases,141823
+2021,DE,Petroleum,16747
+2021,DE,Solar Thermal and Photovoltaic,57126
+2021,DE,Wind,4849
+2021,FL,Coal,18384804
+2021,FL,Hydroelectric Conventional,251607
+2021,FL,Natural Gas,182619846
+2021,FL,Nuclear,29514894
+2021,FL,Other,2697079
+2021,FL,Other Biomass,2081285
+2021,FL,Other Gases,141
+2021,FL,Petroleum,1162018
+2021,FL,Solar Thermal and Photovoltaic,9048715
+2021,FL,Wood and Wood Derived Fuels,2146592
+2021,GA,Coal,19076184
+2021,GA,Hydroelectric Conventional,3661043
+2021,GA,Natural Gas,56673115
+2021,GA,Nuclear,33951976
+2021,GA,Other,78958
+2021,GA,Other Biomass,324305
+2021,GA,Petroleum,179031
+2021,GA,Pumped Storage,-133728
+2021,GA,Solar Thermal and Photovoltaic,4868365
+2021,GA,Wood and Wood Derived Fuels,5521280
+2021,HI,Coal,1084555
+2021,HI,Geothermal,183751
+2021,HI,Hydroelectric Conventional,114971
+2021,HI,Other,195944
+2021,HI,Other Biomass,282637
+2021,HI,Other Gases,0
+2021,HI,Petroleum,6155207
+2021,HI,Solar Thermal and Photovoltaic,507234
+2021,HI,Wind,657891
+2021,HI,Wood and Wood Derived Fuels,0
+2021,IA,Coal,22106594
+2021,IA,Hydroelectric Conventional,980071
+2021,IA,Natural Gas,6463644
+2021,IA,Other,-76
+2021,IA,Other Biomass,201142
+2021,IA,Petroleum,132112
+2021,IA,Solar Thermal and Photovoltaic,224906
+2021,IA,Wind,37098274
+2021,IA,Wood and Wood Derived Fuels,341
+2021,ID,Coal,16115
+2021,ID,Geothermal,92941
+2021,ID,Hydroelectric Conventional,7995217
+2021,ID,Natural Gas,4935454
+2021,ID,Other,61911
+2021,ID,Other Biomass,96064
+2021,ID,Petroleum,152
+2021,ID,Solar Thermal and Photovoltaic,564869
+2021,ID,Wind,2680206
+2021,ID,Wood and Wood Derived Fuels,393543
+2021,IL,Coal,43298080
+2021,IL,Hydroelectric Conventional,128565
+2021,IL,Natural Gas,20664598
+2021,IL,Nuclear,96994458
+2021,IL,Other,245734
+2021,IL,Other Biomass,364454
+2021,IL,Other Gases,241516
+2021,IL,Petroleum,53970
+2021,IL,Solar Thermal and Photovoltaic,513112
+2021,IL,Wind,19133088
+2021,IL,Wood and Wood Derived Fuels,0
+2021,IN,Coal,54447943
+2021,IN,Hydroelectric Conventional,387030
+2021,IN,Natural Gas,27599551
+2021,IN,Other,489360
+2021,IN,Other Biomass,428995
+2021,IN,Other Gases,2254362
+2021,IN,Petroleum,127812
+2021,IN,Solar Thermal and Photovoltaic,572757
+2021,IN,Wind,7856985
+2021,IN,Wood and Wood Derived Fuels,0
+2021,KS,Coal,19396169
+2021,KS,Hydroelectric Conventional,29947
+2021,KS,Natural Gas,2662209
+2021,KS,Nuclear,8574732
+2021,KS,Other,4978
+2021,KS,Other Biomass,58715
+2021,KS,Petroleum,149201
+2021,KS,Solar Thermal and Photovoltaic,61058
+2021,KS,Wind,25693695
+2021,KY,Coal,49862729
+2021,KY,Hydroelectric Conventional,4876457
+2021,KY,Natural Gas,14571980
+2021,KY,Other,70430
+2021,KY,Other Biomass,115172
+2021,KY,Petroleum,66090
+2021,KY,Solar Thermal and Photovoltaic,45989
+2021,KY,Wood and Wood Derived Fuels,299564
+2021,LA,Coal,7872951
+2021,LA,Hydroelectric Conventional,1109178
+2021,LA,Natural Gas,63961174
+2021,LA,Nuclear,17248674
+2021,LA,Other,550230
+2021,LA,Other Biomass,83621
+2021,LA,Other Gases,1790932
+2021,LA,Petroleum,3895714
+2021,LA,Solar Thermal and Photovoltaic,146393
+2021,LA,Wood and Wood Derived Fuels,2056446
+2021,MA,Coal,0
+2021,MA,Hydroelectric Conventional,1117514
+2021,MA,Natural Gas,15009932
+2021,MA,Other,924058
+2021,MA,Other Biomass,902720
+2021,MA,Petroleum,81147
+2021,MA,Pumped Storage,-424247
+2021,MA,Solar Thermal and Photovoltaic,1587405
+2021,MA,Wind,208626
+2021,MA,Wood and Wood Derived Fuels,70191
+2021,MD,Coal,5173979
+2021,MD,Hydroelectric Conventional,2117149
+2021,MD,Natural Gas,13977171
+2021,MD,Nuclear,14993633
+2021,MD,Other,376221
+2021,MD,Other Biomass,366363
+2021,MD,Petroleum,72669
+2021,MD,Solar Thermal and Photovoltaic,632049
+2021,MD,Wind,517431
+2021,MD,Wood and Wood Derived Fuels,8473
+2021,ME,Coal,49996
+2021,ME,Hydroelectric Conventional,2540905
+2021,ME,Natural Gas,3347672
+2021,ME,Other,267417
+2021,ME,Other Biomass,103166
+2021,ME,Petroleum,31605
+2021,ME,Solar Thermal and Photovoltaic,157564
+2021,ME,Wind,2544197
+2021,ME,Wood and Wood Derived Fuels,1865627
+2021,MI,Coal,37053903
+2021,MI,Hydroelectric Conventional,1339764
+2021,MI,Natural Gas,30512718
+2021,MI,Nuclear,34338319
+2021,MI,Other,143008
+2021,MI,Other Biomass,907355
+2021,MI,Other Gases,1201754
+2021,MI,Petroleum,1149522
+2021,MI,Pumped Storage,-715146
+2021,MI,Solar Thermal and Photovoltaic,423805
+2021,MI,Wind,7696887
+2021,MI,Wood and Wood Derived Fuels,1461241
+2021,MN,Coal,15764275
+2021,MN,Hydroelectric Conventional,679125
+2021,MN,Natural Gas,12790625
+2021,MN,Nuclear,14122771
+2021,MN,Other,313214
+2021,MN,Other Biomass,313623
+2021,MN,Petroleum,105131
+2021,MN,Solar Thermal and Photovoltaic,1893473
+2021,MN,Wind,12271314
+2021,MN,Wood and Wood Derived Fuels,942219
+2021,MO,Coal,57858268
+2021,MO,Hydroelectric Conventional,1697444
+2021,MO,Natural Gas,6058969
+2021,MO,Nuclear,4292433
+2021,MO,Other,2
+2021,MO,Other Biomass,82750
+2021,MO,Petroleum,258694
+2021,MO,Pumped Storage,1487
+2021,MO,Solar Thermal and Photovoltaic,116036
+2021,MO,Wind,6534345
+2021,MO,Wood and Wood Derived Fuels,40982
+2021,MS,Coal,5530688
+2021,MS,Natural Gas,48621025
+2021,MS,Nuclear,11772058
+2021,MS,Other,0
+2021,MS,Other Biomass,12388
+2021,MS,Petroleum,8247
+2021,MS,Solar Thermal and Photovoltaic,424931
+2021,MS,Wood and Wood Derived Fuels,1354161
+2021,MT,Coal,10876454
+2021,MT,Hydroelectric Conventional,9258373
+2021,MT,Natural Gas,528305
+2021,MT,Other,282678
+2021,MT,Other Biomass,11557
+2021,MT,Other Gases,13018
+2021,MT,Petroleum,450731
+2021,MT,Solar Thermal and Photovoltaic,33436
+2021,MT,Wind,3472646
+2021,MT,Wood and Wood Derived Fuels,20725
+2021,NC,Coal,20404638
+2021,NC,Hydroelectric Conventional,5812758
+2021,NC,Natural Gas,47444634
+2021,NC,Nuclear,43117707
+2021,NC,Other,288520
+2021,NC,Other Biomass,557186
+2021,NC,Petroleum,194742
+2021,NC,Pumped Storage,0
+2021,NC,Solar Thermal and Photovoltaic,10123161
+2021,NC,Wind,514703
+2021,NC,Wood and Wood Derived Fuels,1465316
+2021,ND,Coal,24402791
+2021,ND,Hydroelectric Conventional,1989053
+2021,ND,Natural Gas,1577728
+2021,ND,Other,54454
+2021,ND,Other Biomass,1764
+2021,ND,Other Gases,38290
+2021,ND,Petroleum,33095
+2021,ND,Wind,14935203
+2021,NE,Coal,18933617
+2021,NE,Hydroelectric Conventional,1123156
+2021,NE,Natural Gas,1173365
+2021,NE,Nuclear,6880622
+2021,NE,Other,-28
+2021,NE,Other Biomass,92473
+2021,NE,Petroleum,55130
+2021,NE,Solar Thermal and Photovoltaic,60523
+2021,NE,Wind,9592039
+2021,NE,Wood and Wood Derived Fuels,0
+2021,NH,Coal,284163
+2021,NH,Hydroelectric Conventional,1025006
+2021,NH,Natural Gas,4466076
+2021,NH,Nuclear,9856117
+2021,NH,Other,55317
+2021,NH,Other Biomass,140089
+2021,NH,Petroleum,69971
+2021,NH,Solar Thermal and Photovoltaic,3685
+2021,NH,Wind,504230
+2021,NH,Wood and Wood Derived Fuels,788600
+2021,NJ,Coal,1026294
+2021,NJ,Hydroelectric Conventional,18224
+2021,NJ,Natural Gas,29542815
+2021,NJ,Nuclear,28142099
+2021,NJ,Other,590139
+2021,NJ,Other Biomass,707765
+2021,NJ,Other Gases,91971
+2021,NJ,Petroleum,36984
+2021,NJ,Pumped Storage,-120077
+2021,NJ,Solar Thermal and Photovoltaic,1377849
+2021,NJ,Wind,19729
+2021,NM,Coal,12536319
+2021,NM,Geothermal,50934
+2021,NM,Hydroelectric Conventional,122862
+2021,NM,Natural Gas,10093190
+2021,NM,Other,-346
+2021,NM,Other Biomass,25683
+2021,NM,Petroleum,33178
+2021,NM,Solar Thermal and Photovoltaic,1749810
+2021,NM,Wind,10580735
+2021,NV,Coal,2752473
+2021,NV,Geothermal,3917454
+2021,NV,Hydroelectric Conventional,1944288
+2021,NV,Natural Gas,26129918
+2021,NV,Other,27358
+2021,NV,Other Biomass,49964
+2021,NV,Other Gases,0
+2021,NV,Petroleum,8014
+2021,NV,Solar Thermal and Photovoltaic,6585171
+2021,NV,Wind,339944
+2021,NY,Coal,0
+2021,NY,Hydroelectric Conventional,28765477
+2021,NY,Natural Gas,56342707
+2021,NY,Nuclear,31176583
+2021,NY,Other,962650
+2021,NY,Other Biomass,1449889
+2021,NY,Other Gases,0
+2021,NY,Petroleum,687762
+2021,NY,Pumped Storage,-381535
+2021,NY,Solar Thermal and Photovoltaic,1158925
+2021,NY,Wind,4156369
+2021,NY,Wood and Wood Derived Fuels,453422
+2021,OH,Coal,45662048
+2021,OH,Hydroelectric Conventional,578290
+2021,OH,Natural Gas,56380782
+2021,OH,Nuclear,17483009
+2021,OH,Other,3240
+2021,OH,Other Biomass,406508
+2021,OH,Other Gases,812827
+2021,OH,Petroleum,1125073
+2021,OH,Solar Thermal and Photovoltaic,672660
+2021,OH,Wind,2586756
+2021,OH,Wood and Wood Derived Fuels,236314
+2021,OK,Coal,11246007
+2021,OK,Hydroelectric Conventional,2766175
+2021,OK,Natural Gas,33857238
+2021,OK,Other,1711
+2021,OK,Other Biomass,86523
+2021,OK,Petroleum,35178
+2021,OK,Pumped Storage,-86940
+2021,OK,Solar Thermal and Photovoltaic,76618
+2021,OK,Wind,32540312
+2021,OK,Wood and Wood Derived Fuels,231765
+2021,OR,Geothermal,182841
+2021,OR,Hydroelectric Conventional,27659573
+2021,OR,Natural Gas,21296627
+2021,OR,Other,35467
+2021,OR,Other Biomass,318976
+2021,OR,Petroleum,419
+2021,OR,Solar Thermal and Photovoltaic,1461062
+2021,OR,Wind,9375750
+2021,OR,Wood and Wood Derived Fuels,686158
+2021,PA,Coal,29297308
+2021,PA,Hydroelectric Conventional,3134917
+2021,PA,Natural Gas,126664878
+2021,PA,Nuclear,75902514
+2021,PA,Other,904095
+2021,PA,Other Biomass,1395935
+2021,PA,Other Gases,550684
+2021,PA,Petroleum,124096
+2021,PA,Pumped Storage,-691512
+2021,PA,Solar Thermal and Photovoltaic,223504
+2021,PA,Wind,3455169
+2021,PA,Wood and Wood Derived Fuels,369846
+2021,RI,Coal,0
+2021,RI,Hydroelectric Conventional,4455
+2021,RI,Natural Gas,8641187
+2021,RI,Other Biomass,208274
+2021,RI,Petroleum,12563
+2021,RI,Solar Thermal and Photovoltaic,284010
+2021,RI,Wind,172160
+2021,SC,Coal,15188401
+2021,SC,Hydroelectric Conventional,2543758
+2021,SC,Natural Gas,23242298
+2021,SC,Nuclear,53771428
+2021,SC,Other,42135
+2021,SC,Other Biomass,106595
+2021,SC,Petroleum,86175
+2021,SC,Pumped Storage,-768078
+2021,SC,Solar Thermal and Photovoltaic,2279650
+2021,SC,Wood and Wood Derived Fuels,1898079
+2021,SD,Coal,1638390
+2021,SD,Hydroelectric Conventional,4982552
+2021,SD,Natural Gas,1311854
+2021,SD,Other,0
+2021,SD,Other Biomass,1119
+2021,SD,Petroleum,38192
+2021,SD,Solar Thermal and Photovoltaic,2007
+2021,SD,Wind,9326617
+2021,SD,Wood and Wood Derived Fuels,21677
+2021,TN,Coal,18259796
+2021,TN,Hydroelectric Conventional,10871480
+2021,TN,Natural Gas,13986006
+2021,TN,Nuclear,35330407
+2021,TN,Other,6637
+2021,TN,Other Biomass,82346
+2021,TN,Other Gases,10654
+2021,TN,Petroleum,103066
+2021,TN,Pumped Storage,-577291
+2021,TN,Solar Thermal and Photovoltaic,338576
+2021,TN,Wind,28186
+2021,TN,Wood and Wood Derived Fuels,617346
+2021,TX,Coal,88818139
+2021,TX,Hydroelectric Conventional,1082469
+2021,TX,Natural Gas,233120825
+2021,TX,Nuclear,40211257
+2021,TX,Other,419549
+2021,TX,Other Biomass,342069
+2021,TX,Other Gases,2217666
+2021,TX,Petroleum,297630
+2021,TX,Solar Thermal and Photovoltaic,14921097
+2021,TX,Wind,99474216
+2021,TX,Wood and Wood Derived Fuels,939340
+2021,US,Coal,897998760
+2021,US,Geothermal,15975127
+2021,US,Hydroelectric Conventional,251584842
+2021,US,Natural Gas,1579189987
+2021,US,Nuclear,779644595
+2021,US,Other,12140066
+2021,US,Other Biomass,17789553
+2021,US,Other Gases,11397237
+2021,US,Petroleum,19173210
+2021,US,Pumped Storage,-5111684
+2021,US,Solar Thermal and Photovoltaic,115258248
+2021,US,Wind,378196775
+2021,US,Wood and Wood Derived Fuels,36462673
+2021,UT,Coal,26375565
+2021,UT,Geothermal,419662
+2021,UT,Hydroelectric Conventional,493542
+2021,UT,Natural Gas,10686336
+2021,UT,Other,161821
+2021,UT,Other Biomass,80752
+2021,UT,Other Gases,5272
+2021,UT,Petroleum,38114
+2021,UT,Solar Thermal and Photovoltaic,3479353
+2021,UT,Wind,825229
+2021,VA,Coal,3248473
+2021,VA,Hydroelectric Conventional,1305725
+2021,VA,Natural Gas,53611274
+2021,VA,Nuclear,28571516
+2021,VA,Other,527592
+2021,VA,Other Biomass,987499
+2021,VA,Petroleum,340785
+2021,VA,Pumped Storage,-1038703
+2021,VA,Solar Thermal and Photovoltaic,3267494
+2021,VA,Wind,49583
+2021,VA,Wood and Wood Derived Fuels,2606944
+2021,VT,Hydroelectric Conventional,1092771
+2021,VT,Natural Gas,2054
+2021,VT,Other,2182
+2021,VT,Other Biomass,60329
+2021,VT,Petroleum,2885
+2021,VT,Solar Thermal and Photovoltaic,173303
+2021,VT,Wind,338188
+2021,VT,Wood and Wood Derived Fuels,435991
+2021,WA,Coal,3132521
+2021,WA,Hydroelectric Conventional,71379357
+2021,WA,Natural Gas,16589252
+2021,WA,Nuclear,8511288
+2021,WA,Other,65514
+2021,WA,Other Biomass,115443
+2021,WA,Other Gases,237716
+2021,WA,Petroleum,32024
+2021,WA,Pumped Storage,1986
+2021,WA,Solar Thermal and Photovoltaic,50208
+2021,WA,Wind,9297756
+2021,WA,Wood and Wood Derived Fuels,1395335
+2021,WI,Coal,27441587
+2021,WI,Hydroelectric Conventional,2144883
+2021,WI,Natural Gas,21342001
+2021,WI,Nuclear,9970190
+2021,WI,Other,25346
+2021,WI,Other Biomass,411050
+2021,WI,Petroleum,320543
+2021,WI,Solar Thermal and Photovoltaic,366806
+2021,WI,Wind,1593479
+2021,WI,Wood and Wood Derived Fuels,660595
+2021,WV,Coal,59667589
+2021,WV,Hydroelectric Conventional,1704564
+2021,WV,Natural Gas,2625675
+2021,WV,Other,-16271
+2021,WV,Other Biomass,10166
+2021,WV,Other Gases,53005
+2021,WV,Petroleum,167199
+2021,WV,Wind,1624136
+2021,WY,Coal,32038128
+2021,WY,Hydroelectric Conventional,790445
+2021,WY,Natural Gas,1500701
+2021,WY,Other,84037
+2021,WY,Other Gases,360169
+2021,WY,Petroleum,60332
+2021,WY,Solar Thermal and Photovoltaic,179072
+2021,WY,Wind,8447860
+2022,AK,Coal,726934
+2022,AK,Hydroelectric Conventional,1713426
+2022,AK,Natural Gas,3229376
+2022,AK,Other,-3245
+2022,AK,Other Biomass,40836
+2022,AK,Petroleum,847526
+2022,AK,Solar Thermal and Photovoltaic,0
+2022,AK,Wind,139276
+2022,AK,Wood and Wood Derived Fuels,0
+2022,AL,Coal,25943990
+2022,AL,Hydroelectric Conventional,10188211
+2022,AL,Natural Gas,62217445
+2022,AL,Nuclear,42313657
+2022,AL,Other,-50
+2022,AL,Other Biomass,42878
+2022,AL,Other Gases,4
+2022,AL,Petroleum,40917
+2022,AL,Solar Thermal and Photovoltaic,894571
+2022,AL,Wood and Wood Derived Fuels,3147269
+2022,AR,Coal,20360869
+2022,AR,Hydroelectric Conventional,3468585
+2022,AR,Natural Gas,26037433
+2022,AR,Nuclear,14323697
+2022,AR,Other,4898
+2022,AR,Other Biomass,46357
+2022,AR,Petroleum,64319
+2022,AR,Pumped Storage,67436
+2022,AR,Solar Thermal and Photovoltaic,736481
+2022,AR,Wood and Wood Derived Fuels,794955
+2022,AZ,Coal,13449468
+2022,AZ,Hydroelectric Conventional,5297590
+2022,AZ,Natural Gas,45053245
+2022,AZ,Nuclear,31942793
+2022,AZ,Other,-11206
+2022,AZ,Other Biomass,18605
+2022,AZ,Petroleum,32204
+2022,AZ,Pumped Storage,96987
+2022,AZ,Solar Thermal and Photovoltaic,7069079
+2022,AZ,Wind,1564348
+2022,AZ,Wood and Wood Derived Fuels,185661
+2022,CA,Coal,251565
+2022,CA,Geothermal,11180964
+2022,CA,Hydroelectric Conventional,17644149
+2022,CA,Natural Gas,96371557
+2022,CA,Nuclear,17593254
+2022,CA,Other,196215
+2022,CA,Other Biomass,2416598
+2022,CA,Other Gases,1411516
+2022,CA,Petroleum,154953
+2022,CA,Pumped Storage,-155048
+2022,CA,Solar Thermal and Photovoltaic,38789351
+2022,CA,Wind,14638061
+2022,CA,Wood and Wood Derived Fuels,2890722
+2022,CO,Coal,21723004
+2022,CO,Hydroelectric Conventional,1344617
+2022,CO,Natural Gas,15445527
+2022,CO,Other,48090
+2022,CO,Other Biomass,72523
+2022,CO,Other Gases,2609
+2022,CO,Petroleum,27206
+2022,CO,Pumped Storage,-21220
+2022,CO,Solar Thermal and Photovoltaic,2400122
+2022,CO,Wind,16911126
+2022,CO,Wood and Wood Derived Fuels,90406
+2022,CT,Coal,0
+2022,CT,Hydroelectric Conventional,312235
+2022,CT,Natural Gas,24530687
+2022,CT,Nuclear,16464167
+2022,CT,Other,491694
+2022,CT,Other Biomass,408715
+2022,CT,Petroleum,314369
+2022,CT,Pumped Storage,1309
+2022,CT,Solar Thermal and Photovoltaic,412820
+2022,CT,Wind,12833
+2022,CT,Wood and Wood Derived Fuels,105270
+2022,DC,Natural Gas,80272
+2022,DC,Other Biomass,57699
+2022,DC,Petroleum,18
+2022,DC,Solar Thermal and Photovoltaic,22248
+2022,DE,Coal,104750
+2022,DE,Natural Gas,4749645
+2022,DE,Other Biomass,78973
+2022,DE,Other Gases,198489
+2022,DE,Petroleum,108258
+2022,DE,Solar Thermal and Photovoltaic,63878
+2022,DE,Wind,4377
+2022,FL,Coal,15531572
+2022,FL,Hydroelectric Conventional,230962
+2022,FL,Natural Gas,193310020
+2022,FL,Nuclear,30768329
+2022,FL,Other,2402159
+2022,FL,Other Biomass,1935370
+2022,FL,Other Gases,121
+2022,FL,Petroleum,1319165
+2022,FL,Solar Thermal and Photovoltaic,11342163
+2022,FL,Wood and Wood Derived Fuels,2070497
+2022,GA,Coal,16778383
+2022,GA,Hydroelectric Conventional,3176979
+2022,GA,Natural Gas,59848731
+2022,GA,Nuclear,34073591
+2022,GA,Other,58278
+2022,GA,Other Biomass,270230
+2022,GA,Petroleum,517236
+2022,GA,Pumped Storage,-643048
+2022,GA,Solar Thermal and Photovoltaic,6947061
+2022,GA,Wood and Wood Derived Fuels,5457192
+2022,HI,Coal,647758
+2022,HI,Geothermal,208346
+2022,HI,Hydroelectric Conventional,110081
+2022,HI,Other,258545
+2022,HI,Other Biomass,225506
+2022,HI,Other Gases,0
+2022,HI,Petroleum,6655178
+2022,HI,Solar Thermal and Photovoltaic,555043
+2022,HI,Wind,625422
+2022,HI,Wood and Wood Derived Fuels,51555
+2022,IA,Coal,18172126
+2022,IA,Hydroelectric Conventional,1009833
+2022,IA,Natural Gas,7339040
+2022,IA,Other,-62
+2022,IA,Other Biomass,213603
+2022,IA,Petroleum,93954
+2022,IA,Solar Thermal and Photovoltaic,385799
+2022,IA,Wind,45761370
+2022,IA,Wood and Wood Derived Fuels,6535
+2022,ID,Coal,6267
+2022,ID,Geothermal,91432
+2022,ID,Hydroelectric Conventional,8359738
+2022,ID,Natural Gas,4335008
+2022,ID,Other,50508
+2022,ID,Other Biomass,90961
+2022,ID,Petroleum,52
+2022,ID,Solar Thermal and Photovoltaic,533318
+2022,ID,Wind,2441688
+2022,ID,Wood and Wood Derived Fuels,369438
+2022,IL,Coal,40559217
+2022,IL,Hydroelectric Conventional,115235
+2022,IL,Natural Gas,19789290
+2022,IL,Nuclear,98869581
+2022,IL,Other,262966
+2022,IL,Other Biomass,282709
+2022,IL,Other Gases,264574
+2022,IL,Petroleum,37579
+2022,IL,Solar Thermal and Photovoltaic,1548365
+2022,IL,Wind,23493806
+2022,IL,Wood and Wood Derived Fuels,0
+2022,IN,Coal,51384115
+2022,IN,Hydroelectric Conventional,370827
+2022,IN,Natural Gas,32120898
+2022,IN,Other,467325
+2022,IN,Other Biomass,385915
+2022,IN,Other Gases,2144536
+2022,IN,Petroleum,113805
+2022,IN,Solar Thermal and Photovoltaic,1082280
+2022,IN,Wind,9985205
+2022,IN,Wood and Wood Derived Fuels,0
+2022,KS,Coal,20229360
+2022,KS,Hydroelectric Conventional,23668
+2022,KS,Natural Gas,3362544
+2022,KS,Nuclear,8981959
+2022,KS,Other,829
+2022,KS,Other Biomass,60836
+2022,KS,Petroleum,-223550
+2022,KS,Solar Thermal and Photovoltaic,74391
+2022,KS,Wind,29687479
+2022,KY,Coal,47053327
+2022,KY,Hydroelectric Conventional,4529831
+2022,KY,Natural Gas,16917627
+2022,KY,Other,54173
+2022,KY,Other Biomass,105024
+2022,KY,Petroleum,97953
+2022,KY,Solar Thermal and Photovoltaic,46853
+2022,KY,Wood and Wood Derived Fuels,342541
+2022,LA,Coal,8172863
+2022,LA,Hydroelectric Conventional,916066
+2022,LA,Natural Gas,72275007
+2022,LA,Nuclear,16164721
+2022,LA,Other,715174
+2022,LA,Other Biomass,79784
+2022,LA,Other Gases,1881531
+2022,LA,Petroleum,3106634
+2022,LA,Solar Thermal and Photovoltaic,196173
+2022,LA,Wood and Wood Derived Fuels,1996897
+2022,MA,Coal,0
+2022,MA,Hydroelectric Conventional,877145
+2022,MA,Natural Gas,15775967
+2022,MA,Other,929797
+2022,MA,Other Biomass,891813
+2022,MA,Petroleum,756062
+2022,MA,Pumped Storage,-399573
+2022,MA,Solar Thermal and Photovoltaic,1934184
+2022,MA,Wind,215680
+2022,MA,Wood and Wood Derived Fuels,45086
+2022,MD,Coal,4639314
+2022,MD,Hydroelectric Conventional,1779682
+2022,MD,Natural Gas,13949642
+2022,MD,Nuclear,14810684
+2022,MD,Other,293570
+2022,MD,Other Biomass,305614
+2022,MD,Petroleum,142864
+2022,MD,Solar Thermal and Photovoltaic,713532
+2022,MD,Wind,497608
+2022,MD,Wood and Wood Derived Fuels,6856
+2022,ME,Coal,42442
+2022,ME,Hydroelectric Conventional,3063335
+2022,ME,Natural Gas,4140365
+2022,ME,Other,280464
+2022,ME,Other Biomass,82112
+2022,ME,Petroleum,274269
+2022,ME,Solar Thermal and Photovoltaic,431687
+2022,ME,Wind,2716384
+2022,ME,Wood and Wood Derived Fuels,1732862
+2022,MI,Coal,34482187
+2022,MI,Hydroelectric Conventional,1385924
+2022,MI,Natural Gas,41183784
+2022,MI,Nuclear,26013361
+2022,MI,Other,146993
+2022,MI,Other Biomass,784317
+2022,MI,Other Gases,1329565
+2022,MI,Petroleum,1554886
+2022,MI,Pumped Storage,-868131
+2022,MI,Solar Thermal and Photovoltaic,859379
+2022,MI,Wind,9151179
+2022,MI,Wood and Wood Derived Fuels,1473609
+2022,MN,Coal,16158695
+2022,MN,Hydroelectric Conventional,950434
+2022,MN,Natural Gas,8736084
+2022,MN,Nuclear,14696205
+2022,MN,Other,307788
+2022,MN,Other Biomass,298601
+2022,MN,Petroleum,-61477
+2022,MN,Solar Thermal and Photovoltaic,1901260
+2022,MN,Wind,15091227
+2022,MN,Wood and Wood Derived Fuels,888074
+2022,MO,Coal,52832377
+2022,MO,Hydroelectric Conventional,1383768
+2022,MO,Natural Gas,8151578
+2022,MO,Nuclear,8874769
+2022,MO,Other,0
+2022,MO,Other Biomass,70547
+2022,MO,Petroleum,162962
+2022,MO,Pumped Storage,165445
+2022,MO,Solar Thermal and Photovoltaic,152279
+2022,MO,Wind,7524605
+2022,MO,Wood and Wood Derived Fuels,42700
+2022,MS,Coal,5651367
+2022,MS,Natural Gas,51719171
+2022,MS,Nuclear,8600330
+2022,MS,Other,0
+2022,MS,Other Biomass,9715
+2022,MS,Petroleum,9149
+2022,MS,Solar Thermal and Photovoltaic,503860
+2022,MS,Wood and Wood Derived Fuels,1287647
+2022,MT,Coal,11651073
+2022,MT,Hydroelectric Conventional,9885929
+2022,MT,Natural Gas,728758
+2022,MT,Other,272422
+2022,MT,Other Biomass,8911
+2022,MT,Other Gases,4257
+2022,MT,Petroleum,464879
+2022,MT,Solar Thermal and Photovoltaic,31611
+2022,MT,Wind,4021860
+2022,MT,Wood and Wood Derived Fuels,19041
+2022,NC,Coal,14673743
+2022,NC,Hydroelectric Conventional,4686291
+2022,NC,Natural Gas,58131396
+2022,NC,Nuclear,42644282
+2022,NC,Other,208052
+2022,NC,Other Biomass,461223
+2022,NC,Petroleum,277752
+2022,NC,Pumped Storage,0
+2022,NC,Solar Thermal and Photovoltaic,11263943
+2022,NC,Wind,546755
+2022,NC,Wood and Wood Derived Fuels,1363651
+2022,ND,Coal,24831185
+2022,ND,Hydroelectric Conventional,1791409
+2022,ND,Natural Gas,1453359
+2022,ND,Other,15086
+2022,ND,Other Biomass,0
+2022,ND,Other Gases,30748
+2022,ND,Petroleum,29281
+2022,ND,Wind,16249888
+2022,NE,Coal,19945269
+2022,NE,Hydroelectric Conventional,1057372
+2022,NE,Natural Gas,1260182
+2022,NE,Nuclear,5618504
+2022,NE,Other,-105
+2022,NE,Other Biomass,88510
+2022,NE,Petroleum,35109
+2022,NE,Solar Thermal and Photovoltaic,73816
+2022,NE,Wind,12614061
+2022,NE,Wood and Wood Derived Fuels,0
+2022,NH,Coal,305456
+2022,NH,Hydroelectric Conventional,1201292
+2022,NH,Natural Gas,4501923
+2022,NH,Nuclear,10921528
+2022,NH,Other,49858
+2022,NH,Other Biomass,141372
+2022,NH,Petroleum,445352
+2022,NH,Solar Thermal and Photovoltaic,3908
+2022,NH,Wind,482322
+2022,NH,Wood and Wood Derived Fuels,711383
+2022,NJ,Coal,497783
+2022,NJ,Hydroelectric Conventional,5226
+2022,NJ,Natural Gas,33394323
+2022,NJ,Nuclear,28318800
+2022,NJ,Other,518980
+2022,NJ,Other Biomass,663466
+2022,NJ,Other Gases,119861
+2022,NJ,Petroleum,137928
+2022,NJ,Pumped Storage,-135854
+2022,NJ,Solar Thermal and Photovoltaic,1518495
+2022,NJ,Wind,21629
+2022,NM,Coal,13291996
+2022,NM,Geothermal,47080
+2022,NM,Hydroelectric Conventional,120825
+2022,NM,Natural Gas,10978171
+2022,NM,Other,-389
+2022,NM,Other Biomass,17072
+2022,NM,Petroleum,18925
+2022,NM,Solar Thermal and Photovoltaic,1980805
+2022,NM,Wind,14434551
+2022,NV,Coal,2735262
+2022,NV,Geothermal,3917131
+2022,NV,Hydroelectric Conventional,1685783
+2022,NV,Natural Gas,24844422
+2022,NV,Other,6097
+2022,NV,Other Biomass,48893
+2022,NV,Other Gases,0
+2022,NV,Petroleum,9106
+2022,NV,Solar Thermal and Photovoltaic,9029593
+2022,NV,Wind,315551
+2022,NY,Coal,0
+2022,NY,Hydroelectric Conventional,27431531
+2022,NY,Natural Gas,60312012
+2022,NY,Nuclear,26812164
+2022,NY,Other,990680
+2022,NY,Other Biomass,1456974
+2022,NY,Other Gases,0
+2022,NY,Petroleum,1856796
+2022,NY,Pumped Storage,-450703
+2022,NY,Solar Thermal and Photovoltaic,1785243
+2022,NY,Wind,4567508
+2022,NY,Wood and Wood Derived Fuels,423160
+2022,OH,Coal,42992712
+2022,OH,Hydroelectric Conventional,506973
+2022,OH,Natural Gas,68864969
+2022,OH,Nuclear,16826787
+2022,OH,Other,2991
+2022,OH,Other Biomass,308522
+2022,OH,Other Gases,738277
+2022,OH,Petroleum,1272605
+2022,OH,Solar Thermal and Photovoltaic,920987
+2022,OH,Wind,3154007
+2022,OH,Wood and Wood Derived Fuels,221630
+2022,OK,Coal,8954031
+2022,OK,Hydroelectric Conventional,1769519
+2022,OK,Natural Gas,36022921
+2022,OK,Other,4328
+2022,OK,Other Biomass,74664
+2022,OK,Petroleum,28580
+2022,OK,Pumped Storage,-90420
+2022,OK,Solar Thermal and Photovoltaic,81415
+2022,OK,Wind,37552755
+2022,OK,Wood and Wood Derived Fuels,237129
+2022,OR,Geothermal,178846
+2022,OR,Hydroelectric Conventional,31304316
+2022,OR,Natural Gas,19054760
+2022,OR,Other,35472
+2022,OR,Other Biomass,299535
+2022,OR,Petroleum,1668
+2022,OR,Solar Thermal and Photovoltaic,1608400
+2022,OR,Wind,8149188
+2022,OR,Wood and Wood Derived Fuels,685431
+2022,PA,Coal,23929783
+2022,PA,Hydroelectric Conventional,2652683
+2022,PA,Natural Gas,130163549
+2022,PA,Nuclear,76166017
+2022,PA,Other,843018
+2022,PA,Other Biomass,1254633
+2022,PA,Other Gases,532586
+2022,PA,Petroleum,312667
+2022,PA,Pumped Storage,-741814
+2022,PA,Solar Thermal and Photovoltaic,237442
+2022,PA,Wind,3572245
+2022,PA,Wood and Wood Derived Fuels,338321
+2022,RI,Coal,0
+2022,RI,Hydroelectric Conventional,7375
+2022,RI,Natural Gas,6963773
+2022,RI,Other,-1147
+2022,RI,Other Biomass,218450
+2022,RI,Petroleum,60051
+2022,RI,Solar Thermal and Photovoltaic,361613
+2022,RI,Wind,209338
+2022,SC,Coal,14243462
+2022,SC,Hydroelectric Conventional,2180514
+2022,SC,Natural Gas,24143895
+2022,SC,Nuclear,54369751
+2022,SC,Other,41926
+2022,SC,Other Biomass,91385
+2022,SC,Petroleum,186679
+2022,SC,Pumped Storage,-870301
+2022,SC,Solar Thermal and Photovoltaic,2421548
+2022,SC,Wood and Wood Derived Fuels,1900642
+2022,SD,Coal,1874802
+2022,SD,Hydroelectric Conventional,4258536
+2022,SD,Natural Gas,1424338
+2022,SD,Other,0
+2022,SD,Other Biomass,5083
+2022,SD,Other Gases,0
+2022,SD,Petroleum,16849
+2022,SD,Solar Thermal and Photovoltaic,2071
+2022,SD,Wind,10295113
+2022,SD,Wood and Wood Derived Fuels,23670
+2022,TN,Coal,15885540
+2022,TN,Hydroelectric Conventional,9198077
+2022,TN,Natural Gas,16520812
+2022,TN,Nuclear,35635400
+2022,TN,Other,3623
+2022,TN,Other Biomass,79242
+2022,TN,Other Gases,11481
+2022,TN,Petroleum,146614
+2022,TN,Pumped Storage,-491319
+2022,TN,Solar Thermal and Photovoltaic,676977
+2022,TN,Wind,14865
+2022,TN,Wood and Wood Derived Fuels,354733
+2022,TX,Coal,85336953
+2022,TX,Hydroelectric Conventional,620183
+2022,TX,Natural Gas,256140180
+2022,TX,Nuclear,41606955
+2022,TX,Other,353247
+2022,TX,Other Biomass,321919
+2022,TX,Other Gases,2430175
+2022,TX,Petroleum,373506
+2022,TX,Solar Thermal and Photovoltaic,22442370
+2022,TX,Wind,114786903
+2022,TX,Wood and Wood Derived Fuels,1150952
+2022,US,Coal,831511612
+2022,US,Geothermal,16086929
+2022,US,Hydroelectric Conventional,254788667
+2022,US,Natural Gas,1687064739
+2022,US,Nuclear,771537176
+2022,US,Other,11114220
+2022,US,Other Biomass,16383408
+2022,US,Other Gases,11722273
+2022,US,Petroleum,22931242
+2022,US,Pumped Storage,-6027858
+2022,US,Solar Thermal and Photovoltaic,143791888
+2022,US,Wind,434297358
+2022,US,Wood and Wood Derived Fuels,35465908
+2022,UT,Coal,22390218
+2022,UT,Geothermal,463130
+2022,UT,Hydroelectric Conventional,595358
+2022,UT,Natural Gas,11107087
+2022,UT,Other,145667
+2022,UT,Other Biomass,73821
+2022,UT,Other Gases,3024
+2022,UT,Petroleum,31039
+2022,UT,Solar Thermal and Photovoltaic,3853259
+2022,UT,Wind,723439
+2022,VA,Coal,3346073
+2022,VA,Hydroelectric Conventional,1137050
+2022,VA,Natural Gas,48801987
+2022,VA,Nuclear,28197337
+2022,VA,Other,522849
+2022,VA,Other Biomass,947509
+2022,VA,Petroleum,651867
+2022,VA,Pumped Storage,-1501756
+2022,VA,Solar Thermal and Photovoltaic,4625769
+2022,VA,Wind,50852
+2022,VA,Wood and Wood Derived Fuels,2697788
+2022,VT,Hydroelectric Conventional,1140686
+2022,VT,Natural Gas,1499
+2022,VT,Other,2867
+2022,VT,Other Biomass,54986
+2022,VT,Petroleum,5265
+2022,VT,Solar Thermal and Photovoltaic,202125
+2022,VT,Wind,409185
+2022,VT,Wood and Wood Derived Fuels,367216
+2022,WA,Coal,3565972
+2022,WA,Hydroelectric Conventional,78916435
+2022,WA,Natural Gas,14532322
+2022,WA,Nuclear,9851535
+2022,WA,Other,58034
+2022,WA,Other Biomass,97971
+2022,WA,Other Gases,255295
+2022,WA,Petroleum,43723
+2022,WA,Pumped Storage,10152
+2022,WA,Solar Thermal and Photovoltaic,83298
+2022,WA,Wind,8060912
+2022,WA,Wood and Wood Derived Fuels,1214851
+2022,WI,Coal,21922948
+2022,WI,Hydroelectric Conventional,1990975
+2022,WI,Natural Gas,23276428
+2022,WI,Nuclear,10077018
+2022,WI,Other,22215
+2022,WI,Other Biomass,383226
+2022,WI,Petroleum,175115
+2022,WI,Solar Thermal and Photovoltaic,805116
+2022,WI,Wind,1815722
+2022,WI,Wood and Wood Derived Fuels,770538
+2022,WV,Coal,50717502
+2022,WV,Hydroelectric Conventional,1647262
+2022,WV,Natural Gas,2110475
+2022,WV,Other,-12343
+2022,WV,Other Biomass,10202
+2022,WV,Other Gases,35002
+2022,WV,Petroleum,150365
+2022,WV,Wind,2006895
+2022,WY,Coal,33517896
+2022,WY,Hydroelectric Conventional,744746
+2022,WY,Natural Gas,1661254
+2022,WY,Other,75894
+2022,WY,Other Gases,328622
+2022,WY,Petroleum,53030
+2022,WY,Solar Thermal and Photovoltaic,185909
+2022,WY,Wind,9780141
+2023,AK,Coal,730681
+2023,AK,Hydroelectric Conventional,1773391
+2023,AK,Natural Gas,3182407
+2023,AK,Other,-4263
+2023,AK,Other Biomass,38918
+2023,AK,Petroleum,885275
+2023,AK,Solar Thermal and Photovoltaic,46
+2023,AK,Wind,111369
+2023,AK,Wood and Wood Derived Fuels,0
+2023,AL,Coal,19181958
+2023,AL,Hydroelectric Conventional,8429721
+2023,AL,Natural Gas,61848367
+2023,AL,Nuclear,45579039
+2023,AL,Other,-93
+2023,AL,Other Biomass,41362
+2023,AL,Other Gases,32
+2023,AL,Petroleum,24540
+2023,AL,Solar Thermal and Photovoltaic,1200722
+2023,AL,Wood and Wood Derived Fuels,3129363
+2023,AR,Coal,16844436
+2023,AR,Hydroelectric Conventional,3228778
+2023,AR,Natural Gas,26487467
+2023,AR,Nuclear,14972481
+2023,AR,Other,6419
+2023,AR,Other Biomass,26514
+2023,AR,Petroleum,44535
+2023,AR,Pumped Storage,100532
+2023,AR,Solar Thermal and Photovoltaic,797523
+2023,AR,Wood and Wood Derived Fuels,686961
+2023,AZ,Coal,12068553
+2023,AZ,Hydroelectric Conventional,5937328
+2023,AZ,Natural Gas,52817503
+2023,AZ,Nuclear,31522590
+2023,AZ,Other,-39558
+2023,AZ,Other Biomass,17570
+2023,AZ,Petroleum,31568
+2023,AZ,Pumped Storage,136248
+2023,AZ,Solar Thermal and Photovoltaic,7438116
+2023,AZ,Wind,1733354
+2023,AZ,Wood and Wood Derived Fuels,175463
+2023,CA,Coal,208862
+2023,CA,Geothermal,11265933
+2023,CA,Hydroelectric Conventional,32381318
+2023,CA,Natural Gas,94390153
+2023,CA,Nuclear,17718368
+2023,CA,Other,-482413
+2023,CA,Other Biomass,2340689
+2023,CA,Other Gases,1381893
+2023,CA,Petroleum,75041
+2023,CA,Pumped Storage,-392677
+2023,CA,Solar Thermal and Photovoltaic,41000969
+2023,CA,Wind,14019194
+2023,CA,Wood and Wood Derived Fuels,2721464
+2023,CO,Coal,18787617
+2023,CO,Hydroelectric Conventional,1596568
+2023,CO,Natural Gas,17219759
+2023,CO,Other,24611
+2023,CO,Other Biomass,69372
+2023,CO,Other Gases,0
+2023,CO,Petroleum,47935
+2023,CO,Pumped Storage,25010
+2023,CO,Solar Thermal and Photovoltaic,3615630
+2023,CO,Wind,16091081
+2023,CO,Wood and Wood Derived Fuels,64136
+2023,CT,Coal,0
+2023,CT,Hydroelectric Conventional,465313
+2023,CT,Natural Gas,24952021
+2023,CT,Nuclear,13669458
+2023,CT,Other,429335
+2023,CT,Other Biomass,357751
+2023,CT,Petroleum,124204
+2023,CT,Pumped Storage,4521
+2023,CT,Solar Thermal and Photovoltaic,421001
+2023,CT,Wind,9889
+2023,CT,Wood and Wood Derived Fuels,232926
+2023,DC,Natural Gas,89210
+2023,DC,Other Biomass,58012
+2023,DC,Petroleum,54
+2023,DC,Solar Thermal and Photovoltaic,24594
+2023,DE,Coal,-6498
+2023,DE,Natural Gas,4382640
+2023,DE,Other Biomass,66300
+2023,DE,Other Gases,172094
+2023,DE,Petroleum,-1891
+2023,DE,Solar Thermal and Photovoltaic,155249
+2023,DE,Wind,4165
+2023,FL,Coal,11691452
+2023,FL,Hydroelectric Conventional,224192
+2023,FL,Natural Gas,197190646
+2023,FL,Nuclear,29940194
+2023,FL,Other,2366170
+2023,FL,Other Biomass,1814273
+2023,FL,Other Gases,56
+2023,FL,Petroleum,1202441
+2023,FL,Solar Thermal and Photovoltaic,14059412
+2023,FL,Wood and Wood Derived Fuels,1309497
+2023,GA,Coal,16769057
+2023,GA,Hydroelectric Conventional,2871919
+2023,GA,Natural Gas,60043962
+2023,GA,Nuclear,37376836
+2023,GA,Other,86444
+2023,GA,Other Biomass,312657
+2023,GA,Petroleum,235837
+2023,GA,Pumped Storage,-663733
+2023,GA,Solar Thermal and Photovoltaic,7549786
+2023,GA,Wood and Wood Derived Fuels,4638749
+2023,HI,Geothermal,192588
+2023,HI,Hydroelectric Conventional,93299
+2023,HI,Other,174037
+2023,HI,Other Biomass,287607
+2023,HI,Other Gases,0
+2023,HI,Petroleum,7159456
+2023,HI,Solar Thermal and Photovoltaic,652840
+2023,HI,Wind,634222
+2023,HI,Wood and Wood Derived Fuels,115
+2023,IA,Coal,16413709
+2023,IA,Hydroelectric Conventional,948077
+2023,IA,Natural Gas,10241479
+2023,IA,Other,-48
+2023,IA,Other Biomass,208493
+2023,IA,Petroleum,63564
+2023,IA,Solar Thermal and Photovoltaic,521369
+2023,IA,Wind,41439495
+2023,IA,Wood and Wood Derived Fuels,836
+2023,ID,Coal,0
+2023,ID,Geothermal,88590
+2023,ID,Hydroelectric Conventional,8377742
+2023,ID,Natural Gas,5686224
+2023,ID,Other,72415
+2023,ID,Other Biomass,89982
+2023,ID,Petroleum,123
+2023,ID,Solar Thermal and Photovoltaic,853929
+2023,ID,Wind,2319741
+2023,ID,Wood and Wood Derived Fuels,353699
+2023,IL,Coal,27149579
+2023,IL,Hydroelectric Conventional,92063
+2023,IL,Natural Gas,28444744
+2023,IL,Nuclear,97559460
+2023,IL,Other,256114
+2023,IL,Other Biomass,242251
+2023,IL,Other Gases,248088
+2023,IL,Petroleum,26288
+2023,IL,Solar Thermal and Photovoltaic,1911088
+2023,IL,Wind,21807967
+2023,IL,Wood and Wood Derived Fuels,0
+2023,IN,Coal,40931630
+2023,IN,Hydroelectric Conventional,463654
+2023,IN,Natural Gas,34849282
+2023,IN,Other,481581
+2023,IN,Other Biomass,254012
+2023,IN,Other Gases,2271502
+2023,IN,Petroleum,96718
+2023,IN,Solar Thermal and Photovoltaic,1854023
+2023,IN,Wind,8844478
+2023,IN,Wood and Wood Derived Fuels,0
+2023,KS,Coal,16290684
+2023,KS,Hydroelectric Conventional,13441
+2023,KS,Natural Gas,4368902
+2023,KS,Nuclear,10301865
+2023,KS,Other,3118
+2023,KS,Other Biomass,65596
+2023,KS,Petroleum,59081
+2023,KS,Solar Thermal and Photovoltaic,81325
+2023,KS,Wind,27272586
+2023,KY,Coal,43447449
+2023,KY,Hydroelectric Conventional,3954668
+2023,KY,Natural Gas,15089520
+2023,KY,Other,91123
+2023,KY,Other Biomass,88989
+2023,KY,Petroleum,61135
+2023,KY,Solar Thermal and Photovoltaic,155425
+2023,KY,Wood and Wood Derived Fuels,328770
+2023,LA,Coal,4833627
+2023,LA,Hydroelectric Conventional,707533
+2023,LA,Natural Gas,74414452
+2023,LA,Nuclear,12211457
+2023,LA,Other,501177
+2023,LA,Other Biomass,84029
+2023,LA,Other Gases,1804182
+2023,LA,Petroleum,1032443
+2023,LA,Solar Thermal and Photovoltaic,291744
+2023,LA,Wood and Wood Derived Fuels,1903921
+2023,MA,Coal,0
+2023,MA,Hydroelectric Conventional,1165201
+2023,MA,Natural Gas,14774025
+2023,MA,Other,928063
+2023,MA,Other Biomass,878421
+2023,MA,Petroleum,97476
+2023,MA,Pumped Storage,-379475
+2023,MA,Solar Thermal and Photovoltaic,2014957
+2023,MA,Wind,181698
+2023,MA,Wood and Wood Derived Fuels,35519
+2023,MD,Coal,1708970
+2023,MD,Hydroelectric Conventional,1849088
+2023,MD,Natural Gas,15336206
+2023,MD,Nuclear,14983751
+2023,MD,Other,312311
+2023,MD,Other Biomass,319124
+2023,MD,Petroleum,64236
+2023,MD,Solar Thermal and Photovoltaic,942764
+2023,MD,Wind,481526
+2023,MD,Wood and Wood Derived Fuels,2672
+2023,ME,Coal,43205
+2023,ME,Hydroelectric Conventional,3831635
+2023,ME,Natural Gas,3975037
+2023,ME,Other,275618
+2023,ME,Other Biomass,70325
+2023,ME,Petroleum,67154
+2023,ME,Solar Thermal and Photovoltaic,522710
+2023,ME,Wind,2338710
+2023,ME,Wood and Wood Derived Fuels,1387787
+2023,MI,Coal,23554515
+2023,MI,Hydroelectric Conventional,1395069
+2023,MI,Natural Gas,54068082
+2023,MI,Nuclear,27996108
+2023,MI,Other,138113
+2023,MI,Other Biomass,753855
+2023,MI,Other Gases,1376972
+2023,MI,Petroleum,1353881
+2023,MI,Pumped Storage,-810138
+2023,MI,Solar Thermal and Photovoltaic,1268692
+2023,MI,Wind,8292415
+2023,MI,Wood and Wood Derived Fuels,1269062
+2023,MN,Coal,12793785
+2023,MN,Hydroelectric Conventional,750356
+2023,MN,Natural Gas,13823606
+2023,MN,Nuclear,11923652
+2023,MN,Other,303320
+2023,MN,Other Biomass,288094
+2023,MN,Petroleum,54264
+2023,MN,Solar Thermal and Photovoltaic,2094356
+2023,MN,Wind,14398249
+2023,MN,Wood and Wood Derived Fuels,847179
+2023,MO,Coal,40347393
+2023,MO,Hydroelectric Conventional,785024
+2023,MO,Natural Gas,9259848
+2023,MO,Nuclear,9179744
+2023,MO,Other,0
+2023,MO,Other Biomass,58907
+2023,MO,Petroleum,131730
+2023,MO,Pumped Storage,-49050
+2023,MO,Solar Thermal and Photovoltaic,174237
+2023,MO,Wind,6775291
+2023,MO,Wood and Wood Derived Fuels,40161
+2023,MS,Coal,4036974
+2023,MS,Natural Gas,55167572
+2023,MS,Nuclear,11749621
+2023,MS,Other,0
+2023,MS,Other Biomass,8205
+2023,MS,Petroleum,7060
+2023,MS,Solar Thermal and Photovoltaic,632843
+2023,MS,Wood and Wood Derived Fuels,1331164
+2023,MT,Coal,11553039
+2023,MT,Hydroelectric Conventional,8792339
+2023,MT,Natural Gas,1001700
+2023,MT,Other,223604
+2023,MT,Other Biomass,7752
+2023,MT,Other Gases,9623
+2023,MT,Petroleum,490847
+2023,MT,Solar Thermal and Photovoltaic,240185
+2023,MT,Wind,4556982
+2023,MT,Wood and Wood Derived Fuels,19688
+2023,NC,Coal,14204647
+2023,NC,Hydroelectric Conventional,4225259
+2023,NC,Natural Gas,51788031
+2023,NC,Nuclear,42335726
+2023,NC,Other,235415
+2023,NC,Other Biomass,461559
+2023,NC,Petroleum,84102
+2023,NC,Pumped Storage,0
+2023,NC,Solar Thermal and Photovoltaic,11459376
+2023,NC,Wind,528896
+2023,NC,Wood and Wood Derived Fuels,1230371
+2023,ND,Coal,22525076
+2023,ND,Hydroelectric Conventional,2119102
+2023,ND,Natural Gas,2833418
+2023,ND,Other,37969
+2023,ND,Other Biomass,0
+2023,ND,Other Gases,23421
+2023,ND,Petroleum,53113
+2023,ND,Wind,14476709
+2023,NE,Coal,17916482
+2023,NE,Hydroelectric Conventional,1142896
+2023,NE,Natural Gas,1410846
+2023,NE,Nuclear,6926053
+2023,NE,Other,-27
+2023,NE,Other Biomass,89959
+2023,NE,Petroleum,35117
+2023,NE,Solar Thermal and Photovoltaic,79423
+2023,NE,Wind,11845206
+2023,NE,Wood and Wood Derived Fuels,0
+2023,NH,Coal,160140
+2023,NH,Hydroelectric Conventional,1591703
+2023,NH,Natural Gas,4225548
+2023,NH,Nuclear,9534781
+2023,NH,Other,51090
+2023,NH,Other Biomass,137596
+2023,NH,Petroleum,67959
+2023,NH,Solar Thermal and Photovoltaic,3301
+2023,NH,Wind,411344
+2023,NH,Wood and Wood Derived Fuels,641536
+2023,NJ,Coal,0
+2023,NJ,Hydroelectric Conventional,11616
+2023,NJ,Natural Gas,33055765
+2023,NJ,Nuclear,28335474
+2023,NJ,Other,554273
+2023,NJ,Other Biomass,670798
+2023,NJ,Other Gases,161367
+2023,NJ,Petroleum,42266
+2023,NJ,Pumped Storage,-165216
+2023,NJ,Solar Thermal and Photovoltaic,1544133
+2023,NJ,Wind,18438
+2023,NM,Coal,7371813
+2023,NM,Geothermal,35858
+2023,NM,Hydroelectric Conventional,107792
+2023,NM,Natural Gas,14230765
+2023,NM,Other,-19127
+2023,NM,Other Biomass,13081
+2023,NM,Petroleum,1411
+2023,NM,Solar Thermal and Photovoltaic,2613007
+2023,NM,Wind,14914473
+2023,NV,Coal,2059636
+2023,NV,Geothermal,4150414
+2023,NV,Hydroelectric Conventional,1318816
+2023,NV,Natural Gas,24599326
+2023,NV,Other,-13068
+2023,NV,Other Biomass,53667
+2023,NV,Other Gases,0
+2023,NV,Petroleum,7892
+2023,NV,Solar Thermal and Photovoltaic,9696445
+2023,NV,Wind,291247
+2023,NY,Coal,0
+2023,NY,Hydroelectric Conventional,28434201
+2023,NY,Natural Gas,58427920
+2023,NY,Nuclear,27524923
+2023,NY,Other,948825
+2023,NY,Other Biomass,1410013
+2023,NY,Other Gases,0
+2023,NY,Petroleum,413015
+2023,NY,Pumped Storage,-372108
+2023,NY,Solar Thermal and Photovoltaic,2236493
+2023,NY,Wind,4799698
+2023,NY,Wood and Wood Derived Fuels,217009
+2023,OH,Coal,31436341
+2023,OH,Hydroelectric Conventional,507044
+2023,OH,Natural Gas,78704777
+2023,OH,Nuclear,16206640
+2023,OH,Other,6045
+2023,OH,Other Biomass,157280
+2023,OH,Other Gases,787419
+2023,OH,Petroleum,1049643
+2023,OH,Solar Thermal and Photovoltaic,1382272
+2023,OH,Wind,2819321
+2023,OH,Wood and Wood Derived Fuels,166682
+2023,OK,Coal,5198647
+2023,OK,Hydroelectric Conventional,1483483
+2023,OK,Natural Gas,45212908
+2023,OK,Other,18472
+2023,OK,Other Biomass,73557
+2023,OK,Petroleum,19727
+2023,OK,Pumped Storage,-53042
+2023,OK,Solar Thermal and Photovoltaic,78534
+2023,OK,Wind,37012334
+2023,OK,Wood and Wood Derived Fuels,191397
+2023,OR,Geothermal,175991
+2023,OR,Hydroelectric Conventional,26329013
+2023,OR,Natural Gas,23384820
+2023,OR,Other,23280
+2023,OR,Other Biomass,283354
+2023,OR,Petroleum,195
+2023,OR,Solar Thermal and Photovoltaic,1900654
+2023,OR,Wind,8953566
+2023,OR,Wood and Wood Derived Fuels,640997
+2023,PA,Coal,12834828
+2023,PA,Hydroelectric Conventional,2783366
+2023,PA,Natural Gas,139256047
+2023,PA,Nuclear,75304581
+2023,PA,Other,873957
+2023,PA,Other Biomass,1266350
+2023,PA,Other Gases,577524
+2023,PA,Petroleum,48868
+2023,PA,Pumped Storage,-904821
+2023,PA,Solar Thermal and Photovoltaic,360500
+2023,PA,Wind,3258324
+2023,PA,Wood and Wood Derived Fuels,265412
+2023,RI,Coal,0
+2023,RI,Hydroelectric Conventional,7533
+2023,RI,Natural Gas,9553676
+2023,RI,Other,-348
+2023,RI,Other Biomass,247099
+2023,RI,Petroleum,30629
+2023,RI,Solar Thermal and Photovoltaic,423369
+2023,RI,Wind,168879
+2023,SC,Coal,15150421
+2023,SC,Hydroelectric Conventional,2199306
+2023,SC,Natural Gas,23691444
+2023,SC,Nuclear,55622340
+2023,SC,Other,44490
+2023,SC,Other Biomass,86630
+2023,SC,Petroleum,96064
+2023,SC,Pumped Storage,-454445
+2023,SC,Solar Thermal and Photovoltaic,2762412
+2023,SC,Wood and Wood Derived Fuels,1654725
+2023,SD,Coal,1562742
+2023,SD,Hydroelectric Conventional,4295723
+2023,SD,Natural Gas,2115780
+2023,SD,Other,0
+2023,SD,Other Biomass,523
+2023,SD,Other Gases,0
+2023,SD,Petroleum,23056
+2023,SD,Solar Thermal and Photovoltaic,46639
+2023,SD,Wind,9375575
+2023,SD,Wood and Wood Derived Fuels,16119
+2023,TN,Coal,15792909
+2023,TN,Hydroelectric Conventional,8041520
+2023,TN,Natural Gas,15029974
+2023,TN,Nuclear,37937437
+2023,TN,Other,476
+2023,TN,Other Biomass,61630
+2023,TN,Other Gases,10847
+2023,TN,Petroleum,102044
+2023,TN,Pumped Storage,-553751
+2023,TN,Solar Thermal and Photovoltaic,961486
+2023,TN,Wind,16213
+2023,TN,Wood and Wood Derived Fuels,390420
+2023,TX,Coal,71614790
+2023,TX,Hydroelectric Conventional,758033
+2023,TX,Natural Gas,282158669
+2023,TX,Nuclear,40679870
+2023,TX,Other,235501
+2023,TX,Other Biomass,177484
+2023,TX,Other Gases,2327350
+2023,TX,Petroleum,235069
+2023,TX,Solar Thermal and Photovoltaic,28149665
+2023,TX,Wind,119855132
+2023,TX,Wood and Wood Derived Fuels,1102982
+2023,US,Coal,675115277
+2023,US,Geothermal,16367398
+2023,US,Hydroelectric Conventional,245002338
+2023,US,Natural Gas,1806062911
+2023,US,Nuclear,774873169
+2023,US,Other,9957421
+2023,US,Other Biomass,15584906
+2023,US,Other Gases,11777794
+2023,US,Petroleum,16233021
+2023,US,Pumped Storage,-5990028
+2023,US,Solar Thermal and Photovoltaic,165530349
+2023,US,Wind,421141335
+2023,US,Wood and Wood Derived Fuels,31614587
+2023,UT,Coal,15600231
+2023,UT,Geothermal,458024
+2023,UT,Hydroelectric Conventional,768930
+2023,UT,Natural Gas,11834247
+2023,UT,Other,98434
+2023,UT,Other Biomass,92276
+2023,UT,Other Gases,2747
+2023,UT,Petroleum,29285
+2023,UT,Solar Thermal and Photovoltaic,3928913
+2023,UT,Wind,683468
+2023,VA,Coal,1415027
+2023,VA,Hydroelectric Conventional,1390685
+2023,VA,Natural Gas,50604694
+2023,VA,Nuclear,29662935
+2023,VA,Other,476788
+2023,VA,Other Biomass,897978
+2023,VA,Petroleum,134545
+2023,VA,Pumped Storage,-1454881
+2023,VA,Solar Thermal and Photovoltaic,5421243
+2023,VA,Wind,46969
+2023,VA,Wood and Wood Derived Fuels,2463362
+2023,VT,Hydroelectric Conventional,1539245
+2023,VT,Natural Gas,1264
+2023,VT,Other,2710
+2023,VT,Other Biomass,56611
+2023,VT,Petroleum,2611
+2023,VT,Solar Thermal and Photovoltaic,191503
+2023,VT,Wind,339614
+2023,VT,Wood and Wood Derived Fuels,346641
+2023,WA,Coal,4162607
+2023,WA,Hydroelectric Conventional,61445849
+2023,WA,Natural Gas,19407851
+2023,WA,Nuclear,8435018
+2023,WA,Other,69397
+2023,WA,Other Biomass,105992
+2023,WA,Other Gases,238344
+2023,WA,Petroleum,23786
+2023,WA,Pumped Storage,-3002
+2023,WA,Solar Thermal and Photovoltaic,364316
+2023,WA,Wind,7549639
+2023,WA,Wood and Wood Derived Fuels,1160808
+2023,WI,Coal,21086691
+2023,WI,Hydroelectric Conventional,1925966
+2023,WI,Natural Gas,25621194
+2023,WI,Nuclear,9682767
+2023,WI,Other,95402
+2023,WI,Other Biomass,383320
+2023,WI,Petroleum,91091
+2023,WI,Solar Thermal and Photovoltaic,1277438
+2023,WI,Wind,1737844
+2023,WI,Wood and Wood Derived Fuels,646993
+2023,WV,Coal,44797570
+2023,WV,Hydroelectric Conventional,1530183
+2023,WV,Natural Gas,3679658
+2023,WV,Other,-13947
+2023,WV,Other Biomass,9088
+2023,WV,Other Gases,31968
+2023,WV,Petroleum,162826
+2023,WV,Wind,2089439
+2023,WY,Coal,30844003
+2023,WY,Hydroelectric Conventional,917358
+2023,WY,Natural Gas,2129478
+2023,WY,Other,84218
+2023,WY,Other Gases,352366
+2023,WY,Petroleum,43712
+2023,WY,Solar Thermal and Photovoltaic,173689
+2023,WY,Wind,8636596
+2024,AK,Coal,752337
+2024,AK,Hydroelectric Conventional,1715040
+2024,AK,Natural Gas,3134186
+2024,AK,Other,-4520
+2024,AK,Other Biomass,43004
+2024,AK,Petroleum,919323
+2024,AK,Solar Thermal and Photovoltaic,7770
+2024,AK,Wind,123366
+2024,AK,Wood and Wood Derived Fuels,0
+2024,AL,Coal,20936166
+2024,AL,Hydroelectric Conventional,8357262
+2024,AL,Natural Gas,64598751
+2024,AL,Nuclear,44487194
+2024,AL,Other,7077
+2024,AL,Other Biomass,36789
+2024,AL,Other Gases,5
+2024,AL,Petroleum,12436
+2024,AL,Solar Thermal and Photovoltaic,1255147
+2024,AL,Wood and Wood Derived Fuels,3230389
+2024,AR,Coal,15660355
+2024,AR,Hydroelectric Conventional,3134464
+2024,AR,Natural Gas,24725307
+2024,AR,Nuclear,14762779
+2024,AR,Other,7143
+2024,AR,Other Biomass,27168
+2024,AR,Petroleum,54566
+2024,AR,Pumped Storage,76525
+2024,AR,Solar Thermal and Photovoltaic,2329090
+2024,AR,Wood and Wood Derived Fuels,765087
+2024,AZ,Coal,9814665
+2024,AZ,Hydroelectric Conventional,5313826
+2024,AZ,Natural Gas,55089930
+2024,AZ,Nuclear,32388118
+2024,AZ,Other,-224136
+2024,AZ,Other Biomass,16609
+2024,AZ,Petroleum,29939
+2024,AZ,Pumped Storage,68626
+2024,AZ,Solar Thermal and Photovoltaic,10820663
+2024,AZ,Wind,2540455
+2024,AZ,Wood and Wood Derived Fuels,167816
+2024,CA,Coal,245554
+2024,CA,Geothermal,10524488
+2024,CA,Hydroelectric Conventional,29453931
+2024,CA,Natural Gas,86655675
+2024,CA,Nuclear,18378835
+2024,CA,Other,-1112702
+2024,CA,Other Biomass,2273647
+2024,CA,Other Gases,1208861
+2024,CA,Petroleum,56586
+2024,CA,Pumped Storage,-45688
+2024,CA,Solar Thermal and Photovoltaic,48427600
+2024,CA,Wind,15648353
+2024,CA,Wood and Wood Derived Fuels,2476245
+2024,CO,Coal,16477718
+2024,CO,Hydroelectric Conventional,1660362
+2024,CO,Natural Gas,17926802
+2024,CO,Other,-4053
+2024,CO,Other Biomass,74913
+2024,CO,Petroleum,42079
+2024,CO,Pumped Storage,66939
+2024,CO,Solar Thermal and Photovoltaic,4938527
+2024,CO,Wind,17602010
+2024,CO,Wood and Wood Derived Fuels,13098
+2024,CT,Coal,0
+2024,CT,Hydroelectric Conventional,368824
+2024,CT,Natural Gas,26036343
+2024,CT,Nuclear,16870305
+2024,CT,Other,424101
+2024,CT,Other Biomass,352808
+2024,CT,Petroleum,19556
+2024,CT,Pumped Storage,4514
+2024,CT,Solar Thermal and Photovoltaic,476431
+2024,CT,Wind,10450
+2024,CT,Wood and Wood Derived Fuels,198080
+2024,DC,Natural Gas,99595
+2024,DC,Other Biomass,55918
+2024,DC,Petroleum,35
+2024,DC,Solar Thermal and Photovoltaic,31648
+2024,DE,Coal,143875
+2024,DE,Natural Gas,4205666
+2024,DE,Other Biomass,41685
+2024,DE,Other Gases,221116
+2024,DE,Petroleum,18456
+2024,DE,Solar Thermal and Photovoltaic,165782
+2024,DE,Wind,2632
+2024,FL,Coal,7846316
+2024,FL,Hydroelectric Conventional,177238
+2024,FL,Natural Gas,204507263
+2024,FL,Nuclear,29053590
+2024,FL,Other,2106063
+2024,FL,Other Biomass,1687347
+2024,FL,Other Gases,75
+2024,FL,Petroleum,814160
+2024,FL,Solar Thermal and Photovoltaic,18649153
+2024,FL,Wood and Wood Derived Fuels,1278031
+2024,GA,Coal,17836880
+2024,GA,Hydroelectric Conventional,2941170
+2024,GA,Natural Gas,56936526
+2024,GA,Nuclear,47975859
+2024,GA,Other,83200
+2024,GA,Other Biomass,295603
+2024,GA,Petroleum,240895
+2024,GA,Pumped Storage,-759908
+2024,GA,Solar Thermal and Photovoltaic,9184669
+2024,GA,Wood and Wood Derived Fuels,5070535
+2024,HI,Geothermal,258939
+2024,HI,Hydroelectric Conventional,100483
+2024,HI,Other,160580
+2024,HI,Other Biomass,218571
+2024,HI,Other Gases,0
+2024,HI,Petroleum,7054021
+2024,HI,Solar Thermal and Photovoltaic,704978
+2024,HI,Wind,663399
+2024,HI,Wood and Wood Derived Fuels,8
+2024,IA,Coal,14464419
+2024,IA,Hydroelectric Conventional,1030463
+2024,IA,Natural Gas,9764541
+2024,IA,Other,-679
+2024,IA,Other Biomass,216619
+2024,IA,Petroleum,47457
+2024,IA,Solar Thermal and Photovoltaic,663478
+2024,IA,Wind,44277157
+2024,IA,Wood and Wood Derived Fuels,692
+2024,ID,Coal,0
+2024,ID,Geothermal,92031
+2024,ID,Hydroelectric Conventional,9150273
+2024,ID,Natural Gas,6285446
+2024,ID,Other,68968
+2024,ID,Other Biomass,96532
+2024,ID,Petroleum,45
+2024,ID,Solar Thermal and Photovoltaic,1017779
+2024,ID,Wind,3015899
+2024,ID,Wood and Wood Derived Fuels,308465
+2024,IL,Coal,26965456
+2024,IL,Hydroelectric Conventional,74896
+2024,IL,Natural Gas,30137333
+2024,IL,Nuclear,99211858
+2024,IL,Other,233486
+2024,IL,Other Biomass,224361
+2024,IL,Other Gases,177044
+2024,IL,Petroleum,20747
+2024,IL,Solar Thermal and Photovoltaic,3057409
+2024,IL,Wind,24910345
+2024,IL,Wood and Wood Derived Fuels,0
+2024,IN,Coal,40526060
+2024,IN,Hydroelectric Conventional,375251
+2024,IN,Natural Gas,39859718
+2024,IN,Other,431725
+2024,IN,Other Biomass,182964
+2024,IN,Other Gases,2113524
+2024,IN,Petroleum,120022
+2024,IN,Solar Thermal and Photovoltaic,3091430
+2024,IN,Wind,10312184
+2024,KS,Coal,13079183
+2024,KS,Hydroelectric Conventional,20044
+2024,KS,Natural Gas,5317906
+2024,KS,Nuclear,9204226
+2024,KS,Other,4990
+2024,KS,Other Biomass,55538
+2024,KS,Petroleum,97468
+2024,KS,Solar Thermal and Photovoltaic,121613
+2024,KS,Wind,29795187
+2024,KY,Coal,44829322
+2024,KY,Hydroelectric Conventional,4113686
+2024,KY,Natural Gas,17267337
+2024,KY,Other,11737
+2024,KY,Other Biomass,98182
+2024,KY,Petroleum,58083
+2024,KY,Solar Thermal and Photovoltaic,276643
+2024,KY,Wood and Wood Derived Fuels,295859
+2024,LA,Coal,3699808
+2024,LA,Hydroelectric Conventional,885203
+2024,LA,Natural Gas,75263347
+2024,LA,Nuclear,14651585
+2024,LA,Other,452219
+2024,LA,Other Biomass,78034
+2024,LA,Other Gases,1447828
+2024,LA,Petroleum,46564
+2024,LA,Solar Thermal and Photovoltaic,1198620
+2024,LA,Wood and Wood Derived Fuels,1899627
+2024,MA,Coal,0
+2024,MA,Hydroelectric Conventional,880681
+2024,MA,Natural Gas,16202972
+2024,MA,Other,916806
+2024,MA,Other Biomass,864954
+2024,MA,Petroleum,176752
+2024,MA,Pumped Storage,-483295
+2024,MA,Solar Thermal and Photovoltaic,2126725
+2024,MA,Wind,169237
+2024,MA,Wood and Wood Derived Fuels,60057
+2024,MD,Coal,2465722
+2024,MD,Hydroelectric Conventional,1848233
+2024,MD,Natural Gas,13910094
+2024,MD,Nuclear,14724068
+2024,MD,Other,337945
+2024,MD,Other Biomass,332520
+2024,MD,Petroleum,211556
+2024,MD,Solar Thermal and Photovoltaic,1036359
+2024,MD,Wind,558320
+2024,MD,Wood and Wood Derived Fuels,0
+2024,ME,Coal,29380
+2024,ME,Hydroelectric Conventional,2851810
+2024,ME,Natural Gas,6398782
+2024,ME,Other,280220
+2024,ME,Other Biomass,72493
+2024,ME,Petroleum,59790
+2024,ME,Solar Thermal and Photovoltaic,945193
+2024,ME,Wind,2446243
+2024,ME,Wood and Wood Derived Fuels,1571266
+2024,MI,Coal,25738090
+2024,MI,Hydroelectric Conventional,1254958
+2024,MI,Natural Gas,55734281
+2024,MI,Nuclear,26280776
+2024,MI,Other,93561
+2024,MI,Other Biomass,666784
+2024,MI,Other Gases,946060
+2024,MI,Petroleum,1493605
+2024,MI,Pumped Storage,-976469
+2024,MI,Solar Thermal and Photovoltaic,1859352
+2024,MI,Wind,9838928
+2024,MI,Wood and Wood Derived Fuels,1270165
+2024,MN,Coal,11430486
+2024,MN,Hydroelectric Conventional,867762
+2024,MN,Natural Gas,15888656
+2024,MN,Nuclear,11844611
+2024,MN,Other,310711
+2024,MN,Other Biomass,284915
+2024,MN,Petroleum,21337
+2024,MN,Solar Thermal and Photovoltaic,2285276
+2024,MN,Wind,14781458
+2024,MN,Wood and Wood Derived Fuels,880010
+2024,MO,Coal,38831623
+2024,MO,Hydroelectric Conventional,1020421
+2024,MO,Natural Gas,9099566
+2024,MO,Nuclear,10525784
+2024,MO,Other,0
+2024,MO,Other Biomass,57669
+2024,MO,Petroleum,147521
+2024,MO,Pumped Storage,147440
+2024,MO,Solar Thermal and Photovoltaic,207676
+2024,MO,Wind,6789964
+2024,MO,Wood and Wood Derived Fuels,48046
+2024,MS,Coal,3334125
+2024,MS,Natural Gas,60025537
+2024,MS,Nuclear,10653403
+2024,MS,Other,-3501
+2024,MS,Other Biomass,7885
+2024,MS,Petroleum,8561
+2024,MS,Solar Thermal and Photovoltaic,1690849
+2024,MS,Wind,346724
+2024,MS,Wood and Wood Derived Fuels,1273129
+2024,MT,Coal,9785486
+2024,MT,Hydroelectric Conventional,9220043
+2024,MT,Natural Gas,995229
+2024,MT,Other,255697
+2024,MT,Other Biomass,17770
+2024,MT,Other Gases,5491
+2024,MT,Petroleum,394533
+2024,MT,Solar Thermal and Photovoltaic,366230
+2024,MT,Wind,5815191
+2024,MT,Wood and Wood Derived Fuels,17214
+2024,NC,Coal,17078652
+2024,NC,Hydroelectric Conventional,4829075
+2024,NC,Natural Gas,55503196
+2024,NC,Nuclear,43349344
+2024,NC,Other,219710
+2024,NC,Other Biomass,367823
+2024,NC,Petroleum,157358
+2024,NC,Pumped Storage,0
+2024,NC,Solar Thermal and Photovoltaic,11843879
+2024,NC,Wind,530043
+2024,NC,Wood and Wood Derived Fuels,1086316
+2024,ND,Coal,23183087
+2024,ND,Hydroelectric Conventional,2060635
+2024,ND,Natural Gas,2442153
+2024,ND,Other,37570
+2024,ND,Other Biomass,0
+2024,ND,Other Gases,27603
+2024,ND,Petroleum,43624
+2024,ND,Wind,14762570
+2024,NE,Coal,16352213
+2024,NE,Hydroelectric Conventional,1182670
+2024,NE,Natural Gas,1381470
+2024,NE,Nuclear,6095731
+2024,NE,Other,-52
+2024,NE,Other Biomass,81761
+2024,NE,Petroleum,47819
+2024,NE,Solar Thermal and Photovoltaic,196130
+2024,NE,Wind,11891207
+2024,NE,Wood and Wood Derived Fuels,0
+2024,NH,Coal,224470
+2024,NH,Hydroelectric Conventional,1411400
+2024,NH,Natural Gas,4420983
+2024,NH,Nuclear,9676862
+2024,NH,Other,49616
+2024,NH,Other Biomass,136029
+2024,NH,Petroleum,46590
+2024,NH,Solar Thermal and Photovoltaic,3509
+2024,NH,Wind,444569
+2024,NH,Wood and Wood Derived Fuels,528452
+2024,NJ,Coal,0
+2024,NJ,Hydroelectric Conventional,3541
+2024,NJ,Natural Gas,29648850
+2024,NJ,Nuclear,27676781
+2024,NJ,Other,606678
+2024,NJ,Other Biomass,656629
+2024,NJ,Other Gases,167836
+2024,NJ,Petroleum,30973
+2024,NJ,Pumped Storage,-231793
+2024,NJ,Solar Thermal and Photovoltaic,1596360
+2024,NJ,Wind,19390
+2024,NM,Coal,8431834
+2024,NM,Geothermal,26097
+2024,NM,Hydroelectric Conventional,153211
+2024,NM,Natural Gas,11647803
+2024,NM,Other,-9836
+2024,NM,Other Biomass,25224
+2024,NM,Petroleum,752
+2024,NM,Solar Thermal and Photovoltaic,4286642
+2024,NM,Wind,15135568
+2024,NV,Coal,2323250
+2024,NV,Geothermal,3885732
+2024,NV,Hydroelectric Conventional,1606304
+2024,NV,Natural Gas,24999470
+2024,NV,Other,-118273
+2024,NV,Other Biomass,52153
+2024,NV,Other Gases,0
+2024,NV,Petroleum,5690
+2024,NV,Solar Thermal and Photovoltaic,12454761
+2024,NV,Wind,319340
+2024,NY,Coal,0
+2024,NY,Hydroelectric Conventional,27945295
+2024,NY,Natural Gas,62345507
+2024,NY,Nuclear,27073320
+2024,NY,Other,996652
+2024,NY,Other Biomass,1444116
+2024,NY,Other Gases,0
+2024,NY,Petroleum,312637
+2024,NY,Pumped Storage,-409577
+2024,NY,Solar Thermal and Photovoltaic,3127486
+2024,NY,Wind,6031402
+2024,NY,Wood and Wood Derived Fuels,148656
+2024,OH,Coal,30079964
+2024,OH,Hydroelectric Conventional,467543
+2024,OH,Natural Gas,85136664
+2024,OH,Nuclear,17946987
+2024,OH,Other,1340
+2024,OH,Other Biomass,141034
+2024,OH,Other Gases,856210
+2024,OH,Petroleum,1142839
+2024,OH,Solar Thermal and Photovoltaic,4001558
+2024,OH,Wind,2821711
+2024,OH,Wood and Wood Derived Fuels,150856
+2024,OK,Coal,6135408
+2024,OK,Hydroelectric Conventional,1581588
+2024,OK,Natural Gas,47742413
+2024,OK,Other,20620
+2024,OK,Other Biomass,85439
+2024,OK,Petroleum,26955
+2024,OK,Pumped Storage,-47522
+2024,OK,Solar Thermal and Photovoltaic,311332
+2024,OK,Wind,37966661
+2024,OK,Wood and Wood Derived Fuels,246252
+2024,OR,Geothermal,168873
+2024,OR,Hydroelectric Conventional,26932746
+2024,OR,Natural Gas,24925820
+2024,OR,Other,13361
+2024,OR,Other Biomass,268683
+2024,OR,Petroleum,13076
+2024,OR,Solar Thermal and Photovoltaic,2001404
+2024,OR,Wind,9518977
+2024,OR,Wood and Wood Derived Fuels,818309
+2024,PA,Coal,13041571
+2024,PA,Hydroelectric Conventional,2720842
+2024,PA,Natural Gas,143912528
+2024,PA,Nuclear,75404472
+2024,PA,Other,858334
+2024,PA,Other Biomass,1255887
+2024,PA,Other Gases,542177
+2024,PA,Petroleum,86771
+2024,PA,Pumped Storage,-908862
+2024,PA,Solar Thermal and Photovoltaic,1094923
+2024,PA,Wind,3256555
+2024,PA,Wood and Wood Derived Fuels,233451
+2024,RI,Coal,0
+2024,RI,Hydroelectric Conventional,2726
+2024,RI,Natural Gas,8791211
+2024,RI,Other,-376
+2024,RI,Other Biomass,196706
+2024,RI,Petroleum,8351
+2024,RI,Solar Thermal and Photovoltaic,600263
+2024,RI,Wind,178146
+2024,SC,Coal,16841756
+2024,SC,Hydroelectric Conventional,2411673
+2024,SC,Natural Gas,22808743
+2024,SC,Nuclear,53770407
+2024,SC,Other,45472
+2024,SC,Other Biomass,62578
+2024,SC,Petroleum,105508
+2024,SC,Pumped Storage,-251067
+2024,SC,Solar Thermal and Photovoltaic,2925656
+2024,SC,Wood and Wood Derived Fuels,1764690
+2024,SD,Coal,1562679
+2024,SD,Hydroelectric Conventional,4600516
+2024,SD,Natural Gas,2260720
+2024,SD,Other,0
+2024,SD,Other Biomass,682
+2024,SD,Other Gases,0
+2024,SD,Petroleum,15961
+2024,SD,Solar Thermal and Photovoltaic,338312
+2024,SD,Wind,12073962
+2024,SD,Wood and Wood Derived Fuels,19162
+2024,TN,Coal,17434868
+2024,TN,Hydroelectric Conventional,8911409
+2024,TN,Natural Gas,16483405
+2024,TN,Nuclear,32185960
+2024,TN,Other,471
+2024,TN,Other Biomass,91747
+2024,TN,Other Gases,11525
+2024,TN,Petroleum,121153
+2024,TN,Pumped Storage,-570830
+2024,TN,Solar Thermal and Photovoltaic,1104334
+2024,TN,Wind,13186
+2024,TN,Wood and Wood Derived Fuels,379539
+2024,TX,Coal,65545244
+2024,TX,Hydroelectric Conventional,776742
+2024,TX,Natural Gas,293193469
+2024,TX,Nuclear,38613118
+2024,TX,Other,-140023
+2024,TX,Other Biomass,200582
+2024,TX,Other Gases,2531717
+2024,TX,Petroleum,229506
+2024,TX,Solar Thermal and Photovoltaic,40558964
+2024,TX,Wind,124277504
+2024,TX,Wood and Wood Derived Fuels,715864
+2024,US,Coal,652155921
+2024,US,Geothermal,15407140
+2024,US,Hydroelectric Conventional,242896054
+2024,US,Natural Gas,1869902146
+2024,US,Nuclear,781865310
+2024,US,Other,8170141
+2024,US,Other Biomass,14857724
+2024,US,Other Gases,10845055
+2024,US,Petroleum,15084453
+2024,US,Pumped Storage,-5851862
+2024,US,Solar Thermal and Photovoltaic,219833913
+2024,US,Wind,451904357
+2024,US,Wood and Wood Derived Fuels,31563945
+2024,UT,Coal,15966584
+2024,UT,Geothermal,450980
+2024,UT,Hydroelectric Conventional,758694
+2024,UT,Natural Gas,11640450
+2024,UT,Other,152765
+2024,UT,Other Biomass,70225
+2024,UT,Other Gases,1333
+2024,UT,Petroleum,33403
+2024,UT,Solar Thermal and Photovoltaic,5311068
+2024,UT,Wind,748405
+2024,VA,Coal,1972109
+2024,VA,Hydroelectric Conventional,1253138
+2024,VA,Natural Gas,60998078
+2024,VA,Nuclear,28945327
+2024,VA,Other,421672
+2024,VA,Other Biomass,792234
+2024,VA,Petroleum,204685
+2024,VA,Pumped Storage,-1532586
+2024,VA,Solar Thermal and Photovoltaic,6998366
+2024,VA,Wind,50260
+2024,VA,Wood and Wood Derived Fuels,2595332
+2024,VT,Hydroelectric Conventional,1283946
+2024,VT,Natural Gas,1068
+2024,VT,Other,983
+2024,VT,Other Biomass,49484
+2024,VT,Petroleum,3084
+2024,VT,Solar Thermal and Photovoltaic,216848
+2024,VT,Wind,355257
+2024,VT,Wood and Wood Derived Fuels,348221
+2024,WA,Coal,2846594
+2024,WA,Hydroelectric Conventional,60736309
+2024,WA,Natural Gas,18097481
+2024,WA,Nuclear,9967139
+2024,WA,Other,72471
+2024,WA,Other Biomass,110507
+2024,WA,Other Gases,222601
+2024,WA,Petroleum,43440
+2024,WA,Pumped Storage,1691
+2024,WA,Solar Thermal and Photovoltaic,436826
+2024,WA,Wind,8863339
+2024,WA,Wood and Wood Derived Fuels,999314
+2024,WI,Coal,20763128
+2024,WI,Hydroelectric Conventional,2071802
+2024,WI,Natural Gas,26245562
+2024,WI,Nuclear,10146871
+2024,WI,Other,22019
+2024,WI,Other Biomass,379302
+2024,WI,Petroleum,67591
+2024,WI,Solar Thermal and Photovoltaic,2880236
+2024,WI,Wind,1994117
+2024,WI,Wood and Wood Derived Fuels,705715
+2024,WV,Coal,43097869
+2024,WV,Hydroelectric Conventional,1361332
+2024,WV,Natural Gas,3782254
+2024,WV,Other,-7623
+2024,WV,Other Biomass,7618
+2024,WV,Other Gases,39917
+2024,WV,Petroleum,124788
+2024,WV,Solar Thermal and Photovoltaic,185815
+2024,WV,Wind,2002848
+2024,WY,Coal,24381618
+2024,WY,Hydroelectric Conventional,1016594
+2024,WY,Natural Gas,5426058
+2024,WY,Other,89953
+2024,WY,Other Gases,324132
+2024,WY,Petroleum,45811
+2024,WY,Solar Thermal and Photovoltaic,423149
+2024,WY,Wind,9001836
