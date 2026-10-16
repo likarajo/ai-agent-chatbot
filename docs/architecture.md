@@ -32,7 +32,7 @@ flowchart TD
 | Parse | `safe_agent/parse.py` | Map the question onto years, state codes, energy sources, grouping, and a limit. The only vocabulary is `safe_agent/schema.py`. |
 | SQL | `safe_agent/sql.py` | Fill a fixed `SELECT … SUM(generation_mwh) …` shape. Values go in `?` parameters. |
 | Check | `safe_agent/validate.py` | Allow one `SELECT` whose identifiers are the published table and columns, plus `SUM` and ordinary SQL words. |
-| Access | `safe_agent/access.py` | For a state reader, replace `FROM generation` with a subquery filtered by a bound state code. The question cannot write this clause. |
+| Access | `safe_agent/access.py` | For a state reader (Texas or California only), replace `FROM generation` with a subquery filtered by a bound state code. The question cannot write this clause. |
 | Database | `safe_agent/db.py` | Build SQLite from the committed CSV if needed, then open it with `mode=ro`. |
 | Explanation | `safe_agent/explain.py` | State the aggregation, the columns, the role, and the row count. |
 

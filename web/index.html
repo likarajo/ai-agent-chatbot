@@ -81,7 +81,7 @@
     <h1>Safe generation questions</h1>
     <p class="lede">
       Ask about U.S. net electricity generation, 2020–2024, from the Energy Information Administration’s public state table.
-      The question becomes a checked query. A state reader only sees the assigned state, and that limit is applied before the query runs.
+      The question becomes a checked query. A state reader is assigned Texas or California only; that row limit is applied before the query runs.
     </p>
     <form id="ask">
       <label for="question">Question</label>
@@ -91,7 +91,7 @@
           <label for="role">Role</label>
           <select id="role" name="role">
             <option value="analyst">Analyst, all states</option>
-            <option value="state_reader">State reader, one state</option>
+            <option value="state_reader">State reader, Texas or California</option>
           </select>
         </div>
         <div id="state-field" class="hidden">

@@ -4,11 +4,42 @@ This repository is a small reference agent. Changes should stay easy to read and
 
 ## Setup
 
-Python 3.11 or newer. From the repository root:
+Python 3.11 or newer. Install steps are in the [README Quickstart](README.md#install-python). From the repository root:
+
+**macOS / Linux**
 
 ```bash
-python3 -m pip install -r requirements-dev.txt
-python3 -m pytest
+python3 -m venv .venv
+```
+
+```bash
+source .venv/bin/activate
+```
+
+```bash
+python -m pip install -r requirements-dev.txt
+```
+
+```bash
+python -m pytest
+```
+
+**Windows (PowerShell)**
+
+```powershell
+python -m venv .venv
+```
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+```powershell
+python -m pip install -r requirements-dev.txt
+```
+
+```powershell
+python -m pytest
 ```
 
 ## What belongs here

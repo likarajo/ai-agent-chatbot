@@ -40,7 +40,7 @@ Say that an unknown column is stopped before a query is built.
 
 ## 3. The state reader (about 60 seconds)
 
-Change **Role** to **State reader, one state**. Set **Assigned state** to Texas.
+Change **Role** to **State reader, Texas or California**. Set **Assigned state** to Texas.
 
 Click the example **How much wind generation did California produce in 2023?** Then click **Ask**.
 
