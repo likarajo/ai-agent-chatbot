@@ -4,9 +4,9 @@ import json
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
-from safe_agent.access import Principal
+from safe_agent.access import READER_STATES, Principal
 from safe_agent.engine import answer
-from safe_agent.schema import STATES, YEARS
+from safe_agent.schema import YEARS
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGE = ROOT / "web" / "index.html"
@@ -27,7 +27,7 @@ class Handler(BaseHTTPRequestHandler):
         if self.path == "/api/schema":
             payload = {
                 "years": list(YEARS),
-                "states": [{"code": code, "name": name} for code, name in STATES.items() if code != "US"],
+                "states": [{"code": code, "name": name} for code, name in READER_STATES.items()],
                 "roles": ["analyst", "state_reader"],
             }
             self._send(200, "application/json", json.dumps(payload).encode())

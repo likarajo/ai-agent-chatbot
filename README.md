@@ -11,7 +11,7 @@ The caller supplies two separate things: the question, and a role.
 1. **The question is not copied into SQL.** The parser maps it onto a closed set of years, state codes, energy sources, groupings, and a limit. Anything outside that set is a refusal.
 2. **Unknown columns stop the request.** `revenue`, `customer`, `password`, and similar words are refused. So is a year outside 2020–2024, a second statement, or a comment.
 3. **The query checker sees the statement before the database does.** It allows one `SELECT` over `generation` and the columns `year`, `state`, `energy_source`, and `generation_mwh`. Writes, `UNION`, comments, `SELECT *`, and any other identifier are rejected.
-4. **Row access is not part of the question.** An analyst can read every state. A state reader is assigned one state by the caller. The access wrapper replaces the table with a subquery, `WHERE state = ?`, after the check. The question cannot widen that predicate.
+4. **Row access is not part of the question.** An analyst can read every state. A state reader is assigned Texas or California by the caller. The access wrapper replaces the table with a subquery, `WHERE state = ?`, after the check. The question cannot widen that predicate.
 5. **The connection is read-only.** `safe_agent/db.py` opens SQLite with `mode=ro`.
 
 A refusal returns an explanation and no executed SQL. The diagram below is the same flow, with file-level detail in [docs/architecture.md](docs/architecture.md).
@@ -30,41 +30,119 @@ flowchart LR
 
 ## Quickstart
 
-Python 3.11 or newer. From this directory:
+Needs Python 3.11 or newer. Confirm with `python --version` (Windows) or `python3 --version` (macOS / Linux).
+
+### Install Python
+
+**Windows (PowerShell)**
+
+Install from [python.org/downloads](https://www.python.org/downloads/) and **Add python.exe to PATH**.
+
+Close and reopen the terminal, then check `python --version`.
+
+**macOS**
 
 ```bash
-python3 -m pip install -r requirements-dev.txt
-python3 -m pytest
-python3 -m safe_agent
+brew install python@3.12
 ```
 
-The server listens at http://127.0.0.1:8642/. Choose **Analyst, all states**, or **State reader, one state**.
+Or download an installer from [python.org/downloads](https://www.python.org/downloads/). Check with `python3 --version`.
+
+### Run the agent
+
+Create a virtual environment so packages install into `.venv`, not the system Python. On GitHub, each block below has a copy control in the top-right corner.
+
+**macOS / Linux**
+
+```bash
+python3 -m venv .venv
+```
+
+```bash
+source .venv/bin/activate
+```
+
+```bash
+python -m pip install -r requirements-dev.txt
+```
+
+```bash
+python -m pytest
+```
+
+```bash
+python -m safe_agent
+```
+
+**Windows (PowerShell)**
+
+```powershell
+python -m venv .venv
+```
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+```powershell
+python -m pip install -r requirements-dev.txt
+```
+
+```powershell
+python -m pytest
+```
+
+```powershell
+python -m safe_agent
+```
+
+If PowerShell blocks activation:
+
+```powershell
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+```
+
+Then run the activate step again.
+
+The server listens at http://127.0.0.1:8642/. Choose **Analyst, all states**, or **State reader, Texas or California**.
 
 One question from the terminal:
 
 ```bash
-python3 -m safe_agent.cli "How much wind generation did Texas produce in 2023?"
+python -m safe_agent.cli "How much wind generation did Texas produce in 2023?"
 ```
 
-A scripted session is `python3 -m safe_agent.demo`. A shot list for a short recording is [docs/demo-script.md](docs/demo-script.md).
+A scripted session:
 
-## Example
+```bash
+python -m safe_agent.demo
+```
 
-Question, as an analyst:
+A shot list for a short recording is [docs/demo-script.md](docs/demo-script.md).
+
+## Examples
+
+### Success: Texas reader asks about Texas
+
+Role **State reader, Texas**. Question:
 
 > How much wind generation did Texas produce in 2023?
 
-Result: **119,855,132 megawatthours**. That is the EIA wind row for Texas in 2023. The statement is a single aggregate with bound parameters:
+The access wrapper binds `TX` first. The question’s state matches, so the row returns: **119,855,132 megawatthours**.
 
-```sql
-SELECT SUM(generation_mwh) AS generation_mwh
-FROM generation
-WHERE year = ? AND state = ? AND energy_source = ?
-```
+![Texas state reader successfully reading Texas wind generation](docs/images/example-success.png)
 
-Parameters: `2023`, `TX`, `Wind`.
+### Refusal: Texas reader asks about California
 
-The same agent refuses “What was customer revenue in Texas in 2023?” because this table has no revenue column. A state reader assigned to Texas who asks for California wind gets zero rows. The explanation says California was left out, and the first bound parameter is `TX`.
+Same role, Texas assigned. Question:
+
+> How much wind generation did California produce in 2023?
+
+The outer filter still asks for California, but the wrapper already limited the table to `TX`, so the two predicates do not overlap. Rows returned: **0**. The first bound parameter is still `TX`.
+
+![Texas state reader blocked from California wind generation](docs/images/example-refusal.png)
+
+The demo only issues state-reader roles for Texas and California. An analyst can still read every state. Unknown columns such as revenue are refused for any role.
 
 ## Dataset
 
@@ -82,9 +160,18 @@ Full notes and the rebuild command are in [data/SOURCE.md](data/SOURCE.md).
 
 ## Tests
 
+Requirements: Python 3.11 or newer (see [Install Python](#install-python) above), and an activated virtual environment. Use the same one-command-per-block steps as [Run the agent](#run-the-agent), then:
+
+**macOS / Linux**
+
 ```bash
-python3 -m pip install -r requirements-dev.txt
-python3 -m pytest
+python -m pytest
+```
+
+**Windows (PowerShell)**
+
+```powershell
+python -m pytest
 ```
 
 The tests lock the Texas wind figure, a refused column, a second SQL statement, a state reader blocked from another state, a read-only connection, and several unsafe statements that must never run. GitHub Actions runs the same command on Python 3.12. See [.github/workflows/test.yml](.github/workflows/test.yml).

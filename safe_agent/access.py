@@ -5,6 +5,12 @@ from dataclasses import dataclass
 from safe_agent.errors import Refusal
 from safe_agent.schema import STATES, TABLE
 
+# Demo row-level roles are only issued for these two states.
+READER_STATES = {
+    "TX": STATES["TX"],
+    "CA": STATES["CA"],
+}
+
 
 @dataclass(frozen=True)
 class Principal:
@@ -28,7 +34,7 @@ def apply_row_filter(sql: str, principal: Principal) -> tuple[str, list]:
 
     The replacement is written here, after validation, so a question cannot
     widen it. The bound parameter is returned first because it appears first
-    in the statement.
+    in the statement. Only Texas and California are valid reader assignments.
     """
     role = principal.role.strip().lower()
     if role == "analyst":
@@ -38,6 +44,9 @@ def apply_row_filter(sql: str, principal: Principal) -> tuple[str, list]:
     code = principal.state_code()
     if not code or code == "US":
         raise Refusal("A state reader has to be assigned one state.")
+    if code not in READER_STATES:
+        names = " or ".join(READER_STATES.values())
+        raise Refusal(f"This demo only issues state-reader roles for {names}.")
     filtered = (
         "(SELECT year, state, energy_source, generation_mwh "
         f"FROM {TABLE} WHERE state = ?)"

@@ -73,16 +73,47 @@ def test_injection_is_refused_and_the_table_remains():
     assert _count() == before
 
 
-def test_state_reader_cannot_read_another_state():
-    texas = answer(
+def test_texas_reader_can_read_texas():
+    result = answer(
+        "How much wind generation did Texas produce in 2023?",
+        Principal("state_reader", "TX"),
+    )
+    assert result.ok
+    assert result.rows == [{"generation_mwh": _cell(2023, "TX", "Wind")}]
+    assert result.params[0] == "TX"
+
+
+def test_texas_reader_cannot_read_california():
+    result = answer(
         "How much wind generation did California produce in 2023?",
         Principal("state_reader", "TX"),
     )
-    assert texas.ok
-    assert texas.rows == []
-    assert "Texas" in texas.explanation
-    assert "California" in texas.explanation
-    assert texas.params[0] == "TX"
+    assert result.ok
+    assert result.rows == []
+    assert "Texas" in result.explanation
+    assert "California" in result.explanation
+    assert result.params[0] == "TX"
+
+
+def test_california_reader_can_read_california():
+    result = answer(
+        "How much wind generation did California produce in 2023?",
+        Principal("state_reader", "CA"),
+    )
+    assert result.ok
+    assert result.rows == [{"generation_mwh": _cell(2023, "CA", "Wind")}]
+    assert result.params[0] == "CA"
+
+
+def test_state_reader_outside_texas_and_california_is_refused():
+    result = answer(
+        "How much wind generation did Texas produce in 2023?",
+        Principal("state_reader", "NY"),
+    )
+    assert not result.ok
+    assert result.sql is None
+    assert "Texas" in result.explanation
+    assert "California" in result.explanation
 
 
 def test_state_reader_total_is_only_the_assigned_state():
